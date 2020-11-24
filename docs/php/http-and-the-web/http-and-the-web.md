@@ -1,17 +1,17 @@
 ---
-id: http-and-the-web
 title: HTTP and the Web
 nav_order: 2
 ---
 
 <!-- prettier-ignore-start -->
+
 # HTTP and the Web
 {: .no_toc }
 
 HTTP, the Hypertext Transfer Protocol, is the network protocol of the Web. It is both simple and powerful. As web programmers it is important that you understand how this protocol works and how best to work with it when you develop server-side web applications.
 
 ## Table of Contents
-{: .no_toc .text-delta }
+{: .no_toc }
 
 1. TOC
 {:toc}
