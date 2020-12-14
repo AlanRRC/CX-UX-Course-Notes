@@ -1,24 +1,24 @@
 ---
-title: Variable Types 
+title: Variable Types
 parent: Intro to PHP
 nav_order: 4
 ---
 
+<!-- prettier-ignore-start -->
 ## Variable Types
 {: .no_toc }
 
 In this section we'll look it how types are assigned to variables in PHP scripts.
 
-<!-- prettier-ignore-start -->
 ## Table of Contents
 {: .no_toc .text-delta }  
 
 1. TOC
 {:toc}
+
 <!-- prettier-ignore-end -->
 
-
-## Variable Types in PHP 
+## Variable Types in PHP
 
 PHP variables are dynamically typed, which means that they are not assigned types by the programmer. They are assigned a type by the interpreter based on their context.
 

@@ -1,20 +1,21 @@
 ---
-title: Array and Hash Traversals 
+title: Array and Hash Traversals
 parent: Intro to PHP
 nav_order: 9
 ---
 
+<!-- prettier-ignore-start -->
 ## Array and Hash Traversals 
 {: .no_toc }
 
 When coding we often want to iterate over (or visit) every element in an array or every key/value pair in a hash. In this section we'll explore how to iterate over arrays and hashes. This interation is often called a traversal. 
 
-<!-- prettier-ignore-start -->
 ## Table of Contents
 {: .no_toc .text-delta }  
 
 1. TOC
 {:toc}
+
 <!-- prettier-ignore-end -->
 
 ## Traversing Arrays
@@ -132,4 +133,3 @@ The team roster:
 * Jane Mayor plays defense
 * Tim MacLand plays centre
 ```
-

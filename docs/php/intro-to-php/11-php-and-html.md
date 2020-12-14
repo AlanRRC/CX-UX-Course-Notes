@@ -1,20 +1,21 @@
 ---
-title: PHP and HTML 
+title: PHP and HTML
 parent: Intro to PHP
-nav_order: 11 
+nav_order: 11
 ---
 
+<!-- prettier-ignore-start -->
 ## PHP and HTML
 {: .no_toc }
 
 PHP is not only a programming language, it is also an HTML templating language. This means we can mix PHP and markup together to create dynamically generated HTML pages.
 
-<!-- prettier-ignore-start -->
 ## Table of Contents
 {: .no_toc .text-delta }  
 
 1. TOC
 {:toc}
+
 <!-- prettier-ignore-end -->
 
 ## PHP and HTML

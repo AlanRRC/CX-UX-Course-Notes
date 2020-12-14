@@ -1,20 +1,21 @@
 ---
-title: Strings 
+title: Strings
 parent: Intro to PHP
 nav_order: 5
 ---
 
+<!-- prettier-ignore-start -->
 ## Strings in PHP
 {: .no_toc }
 
 A string is series of characters. This section will cover how to work with string data in PHP. 
 
-<!-- prettier-ignore-start -->
 ## Table of Contents
 {: .no_toc .text-delta }  
 
 1. TOC
 {:toc}
+
 <!-- prettier-ignore-end -->
 
 ## Plain Strings and Fancy Strings

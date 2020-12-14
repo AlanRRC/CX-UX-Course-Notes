@@ -14,6 +14,7 @@ When accepting data into your web application from the outside world you need to
 
 1. TOC
 {:toc}
+
 <!-- prettier-ignore-end -->
 
 ## Introductions
@@ -26,7 +27,6 @@ We do this in two ways:
 
 - **Data Validation** - _Checking_ Foreign Input
 - **Data Sanitization** - _Cleaning_ Foreign Input
-
 
 ## Objectives
 

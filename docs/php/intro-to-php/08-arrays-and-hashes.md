@@ -1,9 +1,10 @@
 ---
-title: Arrays and Hashes 
+title: Arrays and Hashes
 parent: Intro to PHP
 nav_order: 8
 ---
 
+<!-- prettier-ignore-start -->
 ## Arrays and Hashes
 {: .no_toc }
 
@@ -13,13 +14,12 @@ Arrays in PHP are similar to the arrays you've seen in other languages in that t
 
 Hashes (sometimes called associative arrays) also collections, but here the programmer defines the indices to use. Hashes are said to be collections of key and value pairs. 
 
-
-<!-- prettier-ignore-start -->
 ## Table of Contents
 {: .no_toc .text-delta }  
 
 1. TOC
 {:toc}
+
 <!-- prettier-ignore-end -->
 
 ## Arrays
@@ -270,4 +270,3 @@ Array
 - [sort](http://ca2.php.net/manual/en/function.sort.php) - Sort an array.
 - [asort](http://ca2.php.net/manual/en/function.asort.php) - Sort an hash and maintain index association.
 - [list](http://ca2.php.net/manual/en/function.list.php) - Assign variables as if they were an array.
-

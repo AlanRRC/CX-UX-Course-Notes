@@ -1,20 +1,21 @@
 ---
-title: Functions 
+title: Functions
 parent: Intro to PHP
-nav_order: 10 
+nav_order: 10
 ---
 
+<!-- prettier-ignore-start -->
 ## Functions
 {: .no_toc }
 
 Functions do things, they are the verbs of computer programming.
 
-<!-- prettier-ignore-start -->
 ## Table of Contents
 {: .no_toc .text-delta }  
 
 1. TOC
 {:toc}
+
 <!-- prettier-ignore-end -->
 
 ## Functions
@@ -101,7 +102,7 @@ Here's a function that accepts two floats and returns a string:
 ```php
     function receipt_total(float $total, float $taxes) : string {
         $grand_total = $total + $taxes;
-        return "Grand total after taxes: \${$grand_total}."; 
+        return "Grand total after taxes: \${$grand_total}.";
     }
 ```
 
@@ -109,20 +110,17 @@ Here's a function that accepts two floats and returns a string:
 
 Here are some of the main types that can be used as declarations:
 
-|  Type      |  Description                     |
-| :--------: | :------------------------------: |
-|  array     | Must be an array.                |
-|  bool      | Must be a boolean value.         |
-|  float     | Must be a floating point number. |
-|  int       | Must be an integer.              |
-|  string    | Must be a string.                | 
-|  object    | Must be an object.               |
+|  Type  |           Description            |
+| :----: | :------------------------------: |
+| array  |        Must be an array.         |
+|  bool  |     Must be a boolean value.     |
+| float  | Must be a floating point number. |
+|  int   |       Must be an integer.        |
+| string |        Must be a string.         |
+| object |        Must be an object.        |
 
 PHP will throw a `TypeError` if the incorrect type of data is used in place of the declared type.
 
-
-
 #### Resources
 
-* [Type Declarations @ PHP.net](https://www.php.net/manual/en/functions.arguments.php#functions.arguments.type-declaration)
-
+- [Type Declarations @ PHP.net](https://www.php.net/manual/en/functions.arguments.php#functions.arguments.type-declaration)

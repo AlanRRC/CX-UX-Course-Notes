@@ -1,19 +1,20 @@
 ---
-title: For and While Loops 
+title: For and While Loops
 parent: Intro to PHP
 nav_order: 7
 ---
 
+<!-- prettier-ignore-start -->
 ## For and While Loops
 {: .no_toc }
 We automate repetition in our code using loops. In this section we'll explore PHP's `for` and `while` loops.
 
-<!-- prettier-ignore-start -->
 ## Table of Contents
 {: .no_toc .text-delta }  
 
 1. TOC
 {:toc}
+
 <!-- prettier-ignore-end -->
 
 ## For Loops

@@ -4,20 +4,19 @@ parent: Intro to PHP
 nav_order: 3
 ---
 
+<!-- prettier-ignore-start -->
 ## The Basics
 {: .no_toc }
 
 There are some basic things you need to know to start coding in PHP. These include semicolon requirements, single and multi-line comments, as well as defining constants and variables.
 
-<!-- prettier-ignore-start -->
 ## Table of Contents
 {: .no_toc .text-delta }  
 
 1. TOC
 {:toc}
+
 <!-- prettier-ignore-end -->
-
-
 
 ## Semicolons and Comments
 

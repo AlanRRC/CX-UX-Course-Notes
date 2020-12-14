@@ -4,7 +4,6 @@ nav_order: 2
 ---
 
 <!-- prettier-ignore-start -->
-
 # HTTP and the Web
 {: .no_toc }
 
@@ -15,6 +14,7 @@ HTTP, the Hypertext Transfer Protocol, is the network protocol of the Web. It is
 
 1. TOC
 {:toc}
+
 <!-- prettier-ignore-end -->
 
 ## Introduction
@@ -40,7 +40,7 @@ Upon completion of this module, you should be able to:
 - Describe the use of the HTTP protocol for client-server communication.
 - Describe and or illustrate a typical HTTP client-server interaction.
 - Describe the purpose of the HTTP verbs (GET, POST).
-- Use the $_GET and $\_POST superglobals in PHP scripts to retrieve data sent using GET or POST parameters.
+- Use the $\_GET and $\_POST superglobals in PHP scripts to retrieve data sent using GET or POST parameters.
 
 ## Hypertext Transfer Protocol
 

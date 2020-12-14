@@ -4,7 +4,7 @@ nav_order: 3
 ---
 
 <!-- prettier-ignore-start -->
-## Database-Backed PHP Apps
+# Database-Backed PHP Apps
 {: .no_toc }
 
 These day we rarely code a complex PHP application that does not make use of a database for back-end data storage. For this course we will be using the MySQL database as our database back-end.
@@ -14,6 +14,7 @@ These day we rarely code a complex PHP application that does not make use of a d
 
 1. TOC
 {:toc}
+
 <!-- prettier-ignore-end -->
 
 ## Introduction
@@ -28,13 +29,13 @@ PHP + MySQL = Best Friends Forever!
 
 By the end of this module, you will be able to:
 
-* Establish a connection to a MySQL database from your PHP scripts. 
-* Use this connection to execute SQL queries on your database tables.
-* Using SQL you will be able to perform the following tasks on your tables:
-  * C - Create
-  * R - Read
-  * U - Update
-  * D - Delete
+- Establish a connection to a MySQL database from your PHP scripts.
+- Use this connection to execute SQL queries on your database tables.
+- Using SQL you will be able to perform the following tasks on your tables:
+  - C - Create
+  - R - Read
+  - U - Update
+  - D - Delete
 
 ## Setting Up Our Tables
 
@@ -54,15 +55,12 @@ Ensure that the MySQL server is by logging into [PHPMyAdmin](http://localhost:31
 
 From the PHPMyAdmin SQL tab execute:
 
-```php
+```sql
 CREATE DATABASE serverside;
-```
-
 CREATE USER 'serveruser'@'localhost' IDENTIFIED BY 'gorgonzola7!';
-
 GRANT SELECT, INSERT, UPDATE, DELETE, CREATE, DROP, ALTER
-ON serverside.\* TO 'serveruser'@'localhost';
-{: lang=sql}
+  ON serverside.* TO 'serveruser'@'localhost';
+```
 
 ## PHP Data Objects
 
@@ -216,8 +214,9 @@ _Tips and Gotchas:_
 
 A WHERE clause can be added to any select statement to enforce conditions on the returned rows. The WHERE clause takes the form:
 
+```sql
 WHERE condition1 [AND/OR] condition2 [AND/OR] condition3...
-{: lang=sql}
+```
 
 The conditions specify a column name, an operator, and a comparison value.
 
@@ -287,8 +286,9 @@ The sanitization of the id using `filter_input` in the above example may be over
 
 The insert statement is used to insert new rows into a specific table. The insert statement takes the form:
 
+```sql
 INSERT INTO table_name ( column1, column2,...columnN ) VALUES ( value1, value2,...valueN )
-{: lang=sql}
+```
 
 ```php
 <?php
@@ -324,8 +324,9 @@ _Tips and Gotchas:_
 
 The update statement is used to modify existing rows in the database. One or more columns can be updated. The update statement has the form:
 
+```sql
 UPDATE table_name SET column1=new-value1, column2=new-value2 [WHERE Clause]
-{: lang=sql}
+```
 
 ```php
 <?php
@@ -356,8 +357,9 @@ _Tips and Gotchas:_
 
 The delete statement is used to delete rows from a database table. The delete statement has the form:
 
+```sql
 DELETE FROM table_name [WHERE Clause]
-{: lang=sql}
+```
 
 ```php
 <?php

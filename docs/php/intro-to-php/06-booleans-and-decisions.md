@@ -1,21 +1,21 @@
 ---
-title: Booleans and Decisions 
+title: Booleans and Decisions
 parent: Intro to PHP
 nav_order: 6
 ---
 
+<!-- prettier-ignore-start -->
 ## Booleans and Decisions 
 {: .no_toc }
 
 In many ways, computer programming is the art of automating decisions. Decisions are made by a computer based on statements that are either true or false. In this section we'll see how PHP deals with boolean variables and how to made decisions with `if` and `switch` statements.
 
-
-<!-- prettier-ignore-start -->
 ## Table of Contents
 {: .no_toc .text-delta }  
 
 1. TOC
 {:toc}
+
 <!-- prettier-ignore-end -->
 
 ## Truthiness and Falsiness
