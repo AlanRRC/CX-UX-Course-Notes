@@ -22,7 +22,7 @@ The upload files are stored in temporary directory with file details stored in a
 
 ## Introduction
 
-![Introduction](Upload.png)
+![Introduction](Upload.png){:class="small inline"}
 
 PHP makes it easy to upload files to our web server by way of an HTML form.
 
@@ -130,7 +130,7 @@ In order to save an uploaded file your PHP script must move it to a known locati
 
 ## Security Implications
 
-![Security Implications](NUCLEAR_DANGER.png)
+![Vulnerabilities Make Me Scream](NUCLEAR_DANGER.png){:class="small inline"}
 
 By allowing file uploads we are giving our users write-access to our file-system. This can be a very dangerous move.
 

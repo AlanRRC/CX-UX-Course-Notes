@@ -1,1 +1,5 @@
-console.log("this is it");
+document.addEventListener("DOMContentLoaded", function (event) {
+  if (GLightbox) {
+    GLightbox({ selector: "img" });
+  }
+});

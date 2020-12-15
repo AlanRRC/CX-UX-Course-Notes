@@ -1,6 +1,6 @@
 ---
 title: Javascript Object Notation
-nav_order: 7
+nav_order: 6
 ---
 
 <!--prettier-ignore-start-->
@@ -97,7 +97,6 @@ Using PHP we might encode our people data using nested hashes and arrays, like t
 
 ```php
 <?php
-```
 
 $people = [['name'    => 'Wally Glutton',
               'age'     => 40,
@@ -113,6 +112,7 @@ $people = [['name'    => 'Wally Glutton',
 'postal_code' => 'R3R 2B2']]];
 
 ?>
+```
 
 ## Structured Data in JS - Arrays & Objects
 
@@ -177,7 +177,7 @@ JSON can also be minified (all whitespace removed) to be more efficient to trans
 
 ## JSON Building Blocks
 
-![JSON Building Blocks](value.png)
+![JSON Building Blocks](value.png){:class="small"}
 
 Although JSON is Javascript, there are some extra constraints.
 
@@ -196,7 +196,7 @@ Note that both Arrays and Objects can be nested within the JSON data.
 
 ## Javascript Objects and Arrays
 
-![Javascript Objects and Arrays](object_and_array.png)
+![Javascript Objects and Arrays](object_and_array.png){:class="small"}
 
 Since a JSON structure must be contained in either an Object or an Array it's worth revisiting these structures.
 

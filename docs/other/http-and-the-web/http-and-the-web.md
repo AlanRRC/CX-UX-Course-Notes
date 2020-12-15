@@ -19,7 +19,7 @@ HTTP, the Hypertext Transfer Protocol, is the network protocol of the Web. It is
 
 ## Introduction
 
-![Introduction](first_web_server.jpg)
+![The First Web Server](first_web_server.jpg){:class="small inline"}
 
 The sticker in this photo appears on [the world's first web server](http://www.flickr.com/photos/scobleizer/2251820987/). That's the handwriting of Sir Tim Berners-Lee's on the computer that he used to invent the World Wide Web.
 
@@ -44,7 +44,7 @@ Upon completion of this module, you should be able to:
 
 ## Hypertext Transfer Protocol
 
-![Hypertext Transfer Protocol](url.jpg)
+![Hypertext Transfer Protocol](url.jpg){:class="small inline"}
 
 HTTP stands for Hypertext Transfer Protocol. It is the network protocol used to transfer all files and other data (collectively called _resources_) on the World Wide Web. There resources can be files, images, dynamically-generated web-pages, or any other data that can be identified using a URL (Uniform Resource Locator).
 
@@ -110,7 +110,7 @@ All HTTP responses sent by a server will include an HTTP status code. Some of th
 
 ## HTTP Headers
 
-![HTTP Headers](firebug_headers.png)
+![HTTP Headers](firebug_headers.png){:class="medium inline"}
 
 HTTP requests and responses are often accompanied by header lines. These headers contain the operating parameters of an HTTP request or response. This information is normally hidden from the user, however we can see it if we peak at an HTTP request/response using the Firebug plugin.
 

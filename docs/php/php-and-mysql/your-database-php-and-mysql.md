@@ -19,9 +19,9 @@ These day we rarely code a complex PHP application that does not make use of a d
 
 ## Introduction
 
-PHP and MySQL play _very_ nicely together. In this module you will be using the PHP Data Objects extension (PDO) to connect your PHP scripts to a MySQL database.
+![PHP + MySQL = BFF!](friend1.jpg){:class="small inline"}
 
-![Database-Backed PHP Apps](friend1.jpg)
+PHP and MySQL play _very_ nicely together. In this module you will be using the PHP Data Objects extension (PDO) to connect your PHP scripts to a MySQL database.
 
 PHP + MySQL = Best Friends Forever!
 
@@ -39,7 +39,7 @@ By the end of this module, you will be able to:
 
 ## Setting Up Our Tables
 
-![Setting Up Our Tables](42-21106586.jpg)
+![Setting Up Our Tables](42-21106586.jpg){:class="small"}
 
 All the database tables we use in this class must contain a column named `id`. This `id` column should be:
 
@@ -408,8 +408,6 @@ These notes cover the basics of using PDO with a MySQL database. Here are some l
 
 ## Google Coding AKA Copypasta
 
-![Google Coding AKA Copypasta](copypasta.jpg)
-
 In this course we are _only_ using PDO for database access.
 
 Be wary of example code you find online that uses the _mysql_ or _mysqli_ extensions.
@@ -417,3 +415,5 @@ Be wary of example code you find online that uses the _mysql_ or _mysqli_ extens
 **Code written using the _mysql_ and _mysqli_ extensions will not be accepted for challenges or assignments.**
 
 If you wish to use a database abstraction other that PDO for you work, please ask for special permission from your instructor.
+
+![Google Coding AKA Copypasta](copypasta.jpg){:class="large"}

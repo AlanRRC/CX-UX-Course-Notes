@@ -1,6 +1,6 @@
 ---
 title: Dynamic Content with AJAX
-nav_order: 6
+nav_order: 7
 ---
 
 <!-- prettier-ignore-start -->
@@ -46,8 +46,6 @@ In Javascript this is accomplished by registering a data-handling function to ex
 
 ## The X Stands for JSON
 
-![The X Stands for JSON](AJAX_logo_by_gengns.svg.png)
-
 AJAX stands for **A**synchronous **J**avaScript **A**nd **X**ML.
 
 The term AJAX was first proposed in 2005 to describe the use of Javascript to load extra data from a server into an HTML document.
@@ -89,8 +87,6 @@ button.addEventListener("click", (event) => {
 Arrow functions are more than just a short form for function definition. Be sure that you understand [the how, why and when of arrow functions](https://zendev.com/2018/10/01/javascript-arrow-functions-how-why-when.html) before you start using them in your code.
 
 ## But You Promised!
-
-![But You Promised!](promise-quote.jpg)
 
 Promises are a recent addition to Javascript that represent the _eventual_ result of an asynchronous operation.
 
@@ -323,7 +319,7 @@ The `await` keyword makes Javascript wait until a promise is settled before the 
 
 ## Now What???
 
-![Now What???](email-error.png)
+![AJAX Form Validation](email-error.png){:class="medium inline"}
 
 Now that we've gathered data using the `Fetch` API, what do we do with it?
 

@@ -36,7 +36,7 @@ Upon completion of this module, you should be able to:
 
 ## The Stateless Nature of the Web
 
-![The Stateless Nature of the Web](http.jpg)
+![URLs start with HTTP](http.jpg){:class="small inline"}
 
 A fundamental characteristic of the Web is the stateless interaction between browsers and web servers.
 
@@ -52,7 +52,7 @@ This stateless nature suits applications that allow users to browse or search co
 
 ## Cookies
 
-![Cookies](Choc_Chip_Stack_Sidecookie.png)
+![Nomnomnomnomnomnomnom!](Choc_Chip_Stack_Sidecookie.png){:class="small inline"}
 
 Cookies are used to store user or application state in a web browser. The information is stored as a key / value pair, like in a hash.
 

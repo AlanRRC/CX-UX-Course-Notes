@@ -23,8 +23,6 @@ JSON data can be easily created and decoded in PHP, Javascript, and most other m
 
 ## Ctrl-Z to Undo
 
-![Ctrl-Z to Undo](backup-153008_640.png)
-
 Have you ever used CTRL-Z to undo a change you've made in a file?
 
 CTRL-Z lets us undo one or more changes in files we have open, but it has it's limitation.
@@ -36,8 +34,6 @@ CTRL-Z lets us undo one or more changes in files we have open, but it has it's l
 - What if you wanted to experiment with a series of changes and then revert back to a specific version of the file?
 
 ## Version Control
-
-![Version Control](documents-1920461_640.png)
 
 **Version control**, also known as **revision control** or **source control**, is the management of changes to documents like computer programs.
 
@@ -51,8 +47,6 @@ Some documents have more advanced version control built in. For example:
   ([Here's the history of the version control article](https://en.wikipedia.org/w/index.php?title=Version_control&action=history).)
 
 ## More Than Just Undo
-
-![More Than Just Undo](annie-spratt-608002-unsplash.jpg)
 
 Version control allows for more than just undoing things.
 
@@ -89,19 +83,21 @@ A few git resources:
 
 ## Fancy Version Control Words
 
-![Fancy Version Control Words](1761_image003.jpg)
-
 When discussing version control you'll need to know the definition of the following terms:
+
+- **CLI** - Command Line Interface. The "Terminal" or "Shell" of your operating system. Git is a CLI tool but there are also graphical (GUI) interfaces.
 
 - **Respository** - A collection of files and directories you are monitoring for changes using a version control tool. Sometimes shortened to **repo**.
 
 - **Hash** - A string of characters that acts like a digital fingerprint for a file or portion of a file. The type of hash used by git is [the SHA1 cryptographic hash](https://en.wikipedia.org/wiki/SHA-1).
 
-- **Graph** - A diagram of nodes connected by lines called edges. (See image.)
+- **Graph** - A diagram of nodes connected by lines called edges. (See image below.)
 
 - **DAG** - Directed Acyclic Graph. A graph were the edges are arrows (directed) and no matter which arrow you follow you can never travel in a circle (acyclic).
 
-- **CLI** - Command Line Interface. The "Terminal" or "Shell" of your operating system. Git is a CLI tool but there are also graphical (GUI) interfaces.
+Here's an example image of a Directed Acyclic Graph:
+
+![Fancy Version Control Words](1761_image003.jpg)
 
 ## Initializing a Repository
 
@@ -121,7 +117,7 @@ To compare the **diff**erences between the current files and the last commit:
 
 ## Change Management with Git
 
-![Change Management with Git](git-lifecycle.png)
+![Change Management with Git](git-lifecycle.png){:class="medium"}
 
 As we make changes to our source code we need to **commit** these changes to our git repository.
 
@@ -143,7 +139,7 @@ Wilcards work too:
 
 ## Git Commits and the Git Log
 
-![Git Commits and the Git Log](commit.png)
+![Git Commits and the Git Log](commit.png){:class="small"}
 
 A repo's commits can be reviewed by running:
 
@@ -160,7 +156,7 @@ The image to the right shows two entries from a git log. The 40 character hex nu
 
 ## Branching
 
-![Branching](feature-branch.png)
+![Branching](feature-branch.png){:class="large inline"}
 
 Branches in git give you a safe space to work on new features. The main branch of your repository is called the master branch.
 
@@ -180,11 +176,11 @@ To delete a branch: `git branch -d branch-to-delete`
 
 ## Distributed Versioning with Github
 
-![Distributed Versioning with Github](github_new.png)
-
 To save your git repository to your GitHub account, create a new repository by way of the "create a new repo" button in the top corner of the GitHub website.
 
-**IMPORTANT**: Be sure _not_ to click the checkbox to add an initial README file.
+**IMPORTANT**: Be sure _not_ to click the checkbox to initialize with a README or with any other files.
+
+![Distributed Versioning with Github](github_new.png){:class="medium"}
 
 Let's say you've created a new repo called "rails_project" and you've already initialized this project's git repository.
 
@@ -200,7 +196,7 @@ When ever you want to push the latest state of your repo to Github:
 
 ## Undoing Things in Git
 
-![Undoing Things in Git](ctrlz.jpg)
+![Undoing Things in Git](ctrlz.jpg){:class="large inline"}
 
 In Git, undo can mean a few different things depending on what you wish to undo.
 
@@ -208,4 +204,4 @@ Learn more about undoing with git:
 
 - [Undoing Changes wit Git](https://www.atlassian.com/git/tutorials/undoing-changes/git-clean)
 - [How to undo (almost) anything with Git](https://github.com/blog/2019-how-to-undo-almost-anything-with-git)
-- [On undoing, fixing, or removing commits](http://sethrobertson.github.io/GitFixUm/fixup.html) - A git choose-your-own-adventure!
+- [On undoing, fixing, or removing commits](http://sethrobertson.github.io/GitFixUm/fixup.html) - A git "choose your own adventure"!
