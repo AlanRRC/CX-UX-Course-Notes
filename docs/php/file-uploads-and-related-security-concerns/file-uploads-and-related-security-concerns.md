@@ -152,7 +152,7 @@ This script would allow a hacker to execute any command on your system under the
 
 `http://host.ca/uploads/malicious.php?command=rm%20-rf%20.`
 
-## Image Filtering - I
+## Testing For Images
 
 File uploads can be checked for _"image-ness"_ by looking at the temporary file path, the potential new path, and the file mime-type.
 
@@ -179,7 +179,7 @@ File uploads can be checked for _"image-ness"_ by looking at the temporary file 
 - [getimagesize() @ PHP.net](https://php.net/manual/en/function.getimagesize.php)
 - [in_array() @ PHP.net](https://php.net/manual/en/function.in-array.php)
 
-## Image Filtering - II
+## Filtering Out Non-Image Uploads
 
 If you are only accepting image uploads, then only move the uploaded file when it's an image:
 
