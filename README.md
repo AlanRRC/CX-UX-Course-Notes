@@ -98,10 +98,60 @@ The generated table of contents will replace the two lines that read `1. TOC` an
 
 The `{: .no_toc }` statement marks headings that shouldn't be included in the table of contents. 
 
-The `<!-- pettier... -->` start and end tag prevents this code from being broken by the Prettier code formatting plugin for VS Code. The blank line above the prettier-ignore end tag is crucial. 
+The `<!-- pettier... -->` start and end tag prevents this code from being broken by the Prettier code formatting plugin for VS Code. The blank line above the prettier-ignore-end tag is crucial. 
 
 ## Organizing a Large Module into Sub-Topics
 
+A module can be broken up into sub-topic using multiple markdown files in a single module folder. The module sub-topics will be accessible via a sub-menu in the side-bar menu.
+
+To split up a module you need one markdown file to act as the "parent". It will need front matter that looks like:
+
+```
+---
+title: Parent Module Title
+has_children: true
+nav_order: 3
+---
+```
+
+Each of the sub-topics or "children" will have front matter that look like:
+
+```
+---
+title: Sub-Topic Title
+parent: Parent Module Title
+nav_order: 1
+---
+```
+
+The `nav_order` for the "children" sub-topics controls the order these sub-topics will show up in the associated nested menu in the sidebar. 
+
 ## Customization That Extend the Just the Docs Theme
+
+A few CSS tweaks and utility classes were added to the theme using the `_sass/custom/custom.scss` stylesheet. 
+
+A Javascript lightbox was also added to allow thumbnail images used in the notes to be viewed at a high-resolution. See the `_includes/head_custom.html` file and the `assets/js/mycode.js` file to see how [glightbox](https://biati-digital.github.io/glightbox/) was added.
+
+Images are resized to thumbnails using only CSS so large images should be pre-scaled to reasonable sizes. I'd say try to keep images less than 900px wide.
+
+There are three size images thumbnails you can add to the notes:
+
+```markdown
+![Vulnerabilities Make Me Scream](NUCLEAR_DANGER.png){:class="small"}
+![Vulnerabilities Make Me Scream](NUCLEAR_DANGER.png){:class="medium"}
+![Vulnerabilities Make Me Scream](NUCLEAR_DANGER.png){:class="large"}
+```
+
+Small: 200px height
+Medium: 300px height
+Large: 400px height
+
+You can wrap text around images by making them inline. Inline images will appear to the right of the wrapped text:
+
+```markdown
+![Vulnerabilities Make Me Scream](NUCLEAR_DANGER.png){:class="small inline"}
+
+This is the text that will be displayed to the left of the image.
+```
 
 ## Editing the Notes Locally with a Live Preview
