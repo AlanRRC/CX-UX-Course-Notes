@@ -4,15 +4,23 @@ These WEBD-2008 Web Development 2 notes were built using the [Jekyll static-site
 
 The published notes are hosted on GitHub Pages here: [stungeye.github.io/Web-Dev-2-Notes/](https://stungeye.github.io/Web-Dev-2-Notes/)
 
-## Quick Start Guide for Other Instructors
+## Quick Overview for Other Instructors
 
-* The notes are written using Markdown syntax and can be edited online.
-* The course notes consist of modules written as `.md` files in the `docs` folder.
+* These notes are written using Markdown syntax and can be edited online.
+* The notes consist of modules written as `.md` files in the `docs` folder.
 * The sidebar menu and the module tables of contents are auto-generated. 
 * Modules can be a single files or can be separated into sub-topics across multiple files.  
 * A small amount of custom CSS and Javascript has been added to theme.
 
 Each of these topics is covered below.
+
+## Jekyll and Just the Docs
+
+[Jekyll](https://jekyllrb.com/) is a tool that takes plain text documents and turns them into static HTML websites. 
+
+Jekyll sites can be hosted for free on [GitHub Pages](https://pages.github.com/) by going to the repo settings menu and looking for the "Github Pages" section.
+
+The look and feel of a Jekyll generated website can be changed using a Jeyll theme. These notes use the [Just the Docs theme](https://pmarsceill.github.io/just-the-docs/) and you should reference the [theme documentation](https://pmarsceill.github.io/just-the-docs/) for the nitty-gritty details on how to work with the theme. The following sections are provided as a quick start guide, but more details can always be found by reading the official theme docs.
 
 ## Writing Notes in Markdown and Editing Notes Online
 
