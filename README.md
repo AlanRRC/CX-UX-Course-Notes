@@ -8,7 +8,7 @@ The published notes are hosted on GitHub Pages here: [stungeye.github.io/Web-Dev
 
 * These notes are written using Markdown syntax and can be edited online.
 * The notes consist of modules written as `.md` files in the `docs` folder.
-* The sidebar menu and the module tables of contents are auto-generated. 
+* The sidebar menu and the module table of contents are auto-generated. 
 * Modules can be a single files or can be separated into sub-topics across multiple files.  
 * A small amount of custom CSS and Javascript has been added to theme.
 
