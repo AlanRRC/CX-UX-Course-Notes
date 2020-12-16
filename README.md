@@ -126,7 +126,7 @@ nav_order: 1
 
 The `nav_order` for the "children" sub-topics controls the order these sub-topics will show up in the associated nested menu in the sidebar. 
 
-## Customization That Extend the Just the Docs Theme
+## Customizations Added to the Just the Docs Theme
 
 A few CSS tweaks and utility classes were added to the theme using the `_sass/custom/custom.scss` stylesheet. 
 
@@ -146,6 +146,8 @@ Small: 200px height
 Medium: 300px height
 Large: 400px height
 
+When clicked these thumbnails will display the full size image.
+
 You can wrap text around images by making them inline. Inline images will appear to the right of the wrapped text:
 
 ```markdown
@@ -155,3 +157,22 @@ This is the text that will be displayed to the left of the image.
 ```
 
 ## Editing the Notes Locally with a Live Preview
+
+If you are doing significant editing to the notes it can be nice to do this work on your machine using a text editor like VS Code. It can also be helpful to preview your changes in the browser before committing them to the live site. Local editing with an in-browser preview can be accomplished by cloning this repository and setting of Jekyll on your computer.
+
+If you already have Ruby installed on your computer you can install Jekyll and run the preview server by running the following command from a command line within the root folder of the repositor:
+
+```
+bundle install
+bundle exec jekyll serve
+```
+
+You can now edit the markdown files in the `docs` folder directly on your computer using any text editor. The changes you make can be previewed in your browser by visiting the [http://localhost:4000/Web-Dev-2-Notes/](http://localhost:4000/Web-Dev-2-Notes/) preview server. 
+
+To push your changes to the deployed version of the notes used by students you will need to use git to add, commit and push your changes:
+
+```
+git add .
+git commit -m "A lovely commit message explaining your changes."
+git push origin master
+```
