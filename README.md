@@ -2,7 +2,7 @@
 
 These WEBD-2008 Web Development 2 notes were built using the [Jekyll static-site generator](https://jekyllrb.com/) with the [Just the Docs theme](https://pmarsceill.github.io/just-the-docs/). 
 
-The published version of the notes is hosted on GitHub Pages here: [stungeye.github.io/Web-Dev-2-Notes/](https://stungeye.github.io/Web-Dev-2-Notes/)
+The published notes are hosted on GitHub Pages here: [stungeye.github.io/Web-Dev-2-Notes/](https://stungeye.github.io/Web-Dev-2-Notes/)
 
 ## Quick Start Guide for Other Instructors
 
@@ -16,6 +16,38 @@ Each of these topics is covered below.
 
 ## Writing Notes in Markdown and Editing Notes Online
 
+The notes are written using the [Kramdown-variant of Markdown Syntax](https://kramdown.gettalong.org/quickref.html). This means the notes are stored mainly as plain text. There is a small amount of meta-data at the top of each file that [Jekyll calls front matter](https://jekyllrb.com/docs/front-matter/). 
+
+Markdown allows us to easy add typographic formatting, links, images, and tables to the notes.  Everything you need to know about Markdown can be seen at [the Kramdown Quick Reference](https://kramdown.gettalong.org/quickref.html)).
+
+Some example Markdown:
+
+```markdown
+# This is a Header
+
+## And a Sub-Header
+
+This is a paragraph that includes some **bold** and *italized* text and a [link](http://stungeye.com).
+
+* A 
+* List
+* of
+* Items
+```
+
+Which outputs:
+
+> # This is a Header
+>
+> ## And a Sub-Header
+> 
+> This is a paragraph that include some **bold** and *italized* text and a [link](http://stungeye.com).
+> 
+> * A 
+> * List
+> * of
+> * Items
+
 ## The File and Folder Structure of the Repository
 
 ## Organizing Modules in the Sidebar Menu
@@ -25,3 +57,5 @@ Each of these topics is covered below.
 ## Organizing a Large Module into Sub-Topics
 
 ## Customization That Extend the Just the Docs Theme
+
+## Editing the Notes Locally with a Live Preview
