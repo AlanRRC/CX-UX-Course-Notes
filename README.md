@@ -1,6 +1,8 @@
 # Web Development 2 Course Notes
 
-These course notes for WEBD-2008 Web Devevelopment 2 are hosted on GitHub Pages and were built using the [Jekyll static-site generator](https://jekyllrb.com/) with the [Just the Docs theme](https://pmarsceill.github.io/just-the-docs/).
+These WEBD-2008 Web Development 2 notes were built using the [Jekyll static-site generator](https://jekyllrb.com/) with the [Just the Docs theme](https://pmarsceill.github.io/just-the-docs/). 
+
+The published version of the notes is hosted on GitHub Pages here: [stungeye.github.io/Web-Dev-2-Notes/](https://stungeye.github.io/Web-Dev-2-Notes/)
 
 ## Quick Start Guide for Other Instructors
 
