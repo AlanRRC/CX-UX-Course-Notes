@@ -18,12 +18,11 @@ description: >- # this means to ignore newlines until "baseurl:"
   Course notes for the Red River College Applied Computer Education
   course Web Development 2, WEBD-2008.
 baseurl: "/Web-Dev-2-Notes" # the subpath of your site, e.g. /blog
-# url: "" # the base hostname & protocol for your site, e.g. http://example.com
-
 # Build settings
 markdown: kramdown
 remote_theme: pmarsceill/just-the-docs
 
+# Table of contents should only go three levels deep.
 kramdown:
   toc_levels: 1..3
 

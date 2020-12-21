@@ -5,13 +5,13 @@ nav_order: 1
 permalink: /
 ---
 
-# WEBD-2008 - Web Development Two 
+# WEBD-2008 - Web Development Two
 
-Web Development 2 builds upon skills learned in Web Development 1. In this course we will continue to explore the Web Development stack by working with server side code using PHP as the main language.
+Web Development 2 builds on the skills you acquired in Web Development 1. In this course you will continue to explore the Web Development stack by incorporating server-side code. PHP will be our server-side language and we will use Javascript for our front-end development.
 
-We will use PHP to create dynamic webpages with data derived from databases, cookies, sessions, and JSON files. You will work in groups to complete your assignments in the first half of the course.
+You will use PHP to create dynamic webpages from data stored in database tables, cookies, sessions, and JSON files. You will work in groups to complete your assignments in the first half of the course.
 
-The second half of the course will be dedicated to an individual project where you will create a working Content Management System.
+The second half of the course is dedicated to an individual project where you create your own custom Content Management System.
 
 ## Course Notes
 

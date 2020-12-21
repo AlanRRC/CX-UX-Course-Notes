@@ -4,7 +4,6 @@ nav_order: 5
 ---
 
 <!-- prettier-ignore-start -->
-
 # File Uploads 
 {: .no_toc }
 
@@ -150,7 +149,9 @@ An example `p0wn.php` file:
 
 This script would allow a hacker to execute any command on your system under the same security permissions as the Apache user. Here is our hacker deleting everything in the current directory:
 
-`http://host.ca/uploads/malicious.php?command=rm%20-rf%20.`
+`http://host.ca/uploads/p0wn.php?command=rm%20-rf%20.`
+
+(Remember that `%20` in a URL means a space.)
 
 ## Testing For Images
 
