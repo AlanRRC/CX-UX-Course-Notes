@@ -1,17 +1,15 @@
 ---
 title: Git Overview
-nav_order: 8
+nav_order: 10
 ---
 
 <!--prettier-ignore-start-->
 #  Git Overview
 {: .no_toc }
 
-**J**ava**S**cript **O**bject **N**otation, JSON for short, is file format for storing and exchanging structured data.
+Version control, also known as revision control or source control, is the management of changes to documents like computer programs.
 
-JSON is a human-readable text-based format based on how objects are defined in Javascript.
-
-JSON data can be easily created and decoded in PHP, Javascript, and most other modern programming language.
+This is a module on the git version control tool.
 
 ## Table of Contents
 {: .no_toc }

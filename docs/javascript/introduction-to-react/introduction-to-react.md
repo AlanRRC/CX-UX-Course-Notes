@@ -1,7 +1,19 @@
 ---
-title: Introduction to React
-nav_order: 9
+title: Introduction to React (Draft)
+nav_order: 12
 ---
+
+<!--prettier-ignore-start-->
+# Introduction to React 
+{: .no_toc }
+
+## Table of Contents
+{: .no_toc }
+
+1. TOC
+{:toc}
+
+<!--prettier-ignore-end-->
 
 ## Introduction
 
@@ -480,20 +492,6 @@ _Scroll to "Bouvet Island" to see this in action._
 - [Official React Docs on Other Conditional Rendering Techniques](https://reactjs.org/docs/conditional-rendering.html)
 - [Javascript Ternary Operator - MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Conditional_Operator)
 
-## Build A Thing Now Will Yeah?
-
-It's your turn.
-
-Use one of these CodePen templates to build a React component.
-
-- [Dogs]()
-- [HTTP Cats]()
-- [Pokemon]()
-- [Star Wars Planets]()
-- [Star Wars Characters]()
-
-Each template is pre-wired to an API data source.
-
 ## JSX Quirks
 
 As you work with JSX you'll notice that it differs from HTML in a few ways:
@@ -551,24 +549,3 @@ In the next module you'll learn more advanced React topics like:
 - Fetching JSON Data
 - Handling Form Input
 - Styling Components with CSS
-
-## Code Sandbox Demo
-
-<iframe src="https://codesandbox.io/embed/react-demo-48bs4?autoresize=1&fontsize=14&hidenavigation=1&theme=light"
-     style="width:100%; height:500px; border:0; border-radius: 4px; overflow:hidden;"
-     title="React Demo"
-     allow="accelerometer; ambient-light-sensor; camera; encrypted-media; geolocation; gyroscope; hid; microphone; midi; payment; usb; vr; xr-spatial-tracking"
-     sandbox="allow-forms allow-modals allow-popups allow-presentation allow-same-origin allow-scripts"
-   ></iframe>
-
-## REPL.IT Demo - Ruby in the Browser
-
-<iframe height="400px" width="100%" src="https://repl.it/@stungeye/REST-API-Interaction-Star-Wars-JSON?lite=true" scrolling="no" frameborder="no" allowtransparency="true" allowfullscreen="true" sandbox="allow-forms allow-pointer-lock allow-popups allow-same-origin allow-scripts allow-modals"></iframe>
-
-## REPL.IT DEMO - Java in the Browser
-
-<iframe height="400px" width="100%" src="https://repl.it/@stungeye/Hello-Java?lite=true" scrolling="no" frameborder="no" allowtransparency="true" allowfullscreen="true" sandbox="allow-forms allow-pointer-lock allow-popups allow-same-origin allow-scripts allow-modals"></iframe>
-
-## REPL.IT Demo - C# in the Browser
-
-<iframe height="400px" width="100%" src="https://repl.it/@stungeye/C-Test?lite=true" scrolling="no" frameborder="no" allowtransparency="true" allowfullscreen="true" sandbox="allow-forms allow-pointer-lock allow-popups allow-same-origin allow-scripts allow-modals"></iframe>

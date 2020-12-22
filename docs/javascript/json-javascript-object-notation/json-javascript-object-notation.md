@@ -1,6 +1,6 @@
 ---
 title: Javascript Object Notation
-nav_order: 6
+nav_order: 9
 ---
 
 <!--prettier-ignore-start-->
