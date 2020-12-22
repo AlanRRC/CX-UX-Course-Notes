@@ -1,9 +1,8 @@
 ---
-title: Objective and Conventions 
+title: Objectives and Conventions
 parent: Intro to PHP
 nav_order: 1
 ---
-
 
 ## Objectives
 
