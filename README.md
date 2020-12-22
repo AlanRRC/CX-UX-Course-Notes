@@ -22,7 +22,20 @@ Jekyll sites can be hosted for free on [GitHub Pages](https://pages.github.com/)
 
 The look and feel of a Jekyll generated website can be changed using a Jekyll theme. These notes use the [Just the Docs theme](https://pmarsceill.github.io/just-the-docs/). The following sections are provided as a quick start guide, but you should reference the [official documentation](https://pmarsceill.github.io/just-the-docs/) for the nitty-gritty details on how to work with the theme.
 
-## Writing Notes in Markdown and Editing Notes Online
+## Editing Notes Online
+
+The process for editing the notes online goes as follows:
+
+* Locate the page you wish to edit on [the deployed version of the notes](https://stungeye.github.io/Web-Dev-2-Notes/). 
+* Scroll to the bottom on the page and click the "Edit this page on Github" link. 
+* (This will take you to the correct file to edit in the repo.)
+* Click the edit icon for the module on github. (Pencil icon top right corner above file contents.)
+* Add or change the file contents using Markdown syntax. (See the next section for Markdown details.)
+* Click the green commit button below the web editor to save your changes. (Leave a commit message to explain the intent behind your change/addition.)
+
+If you don't have collaborator access to this remote the above steps should still work, but instead of committing your changes a pull request will be made on the repo.
+
+## Writing Notes in Markdown
 
 The notes are written using the [Kramdown-variant of Markdown Syntax](https://kramdown.gettalong.org/quickref.html). This means the notes are stored as plain text in this repository and converted into an HTML website by Jekyll. There is a small amount of meta-data at the top of each markdown file that [Jekyll calls front matter](https://jekyllrb.com/docs/front-matter/). 
 
