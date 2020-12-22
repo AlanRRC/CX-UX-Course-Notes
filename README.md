@@ -10,6 +10,7 @@ The published notes are hosted on GitHub Pages here: [stungeye.github.io/Web-Dev
 * The notes consist of modules written as `.md` files in the `docs` folder.
 * The sidebar menu and the module table of contents are auto-generated. 
 * Modules can be a single files or can be separated into sub-topics across multiple files.  
+* Draft modules can be added that are initially hidden from students.
 * A small amount of custom CSS and Javascript has been added to theme.
 
 Each of these topics is covered below.
@@ -148,6 +149,12 @@ nav_order: 1
 The `nav_order` for the "children" sub-topics controls the order these sub-topics will show up in the associated nested menu in the sidebar.
 
 I found it helpful to start the parent filename with `00` and then name each child topic starting with `01` and then `02` etc. The file-system order doesn't affect the menu order, only the `nav_order` can do that, but it's nice to have the file-system order match the sub-menu order.
+
+## Adding Draft Modules That Are Initially Hidden From View
+
+Modules with the word "Draft" in their title (as defined in the front-matter) will default to not being shown in the sidebar menu. The visibility of these draft modules can be toggled by clicking on the pi symbol in the footer of the sidebar menu.
+
+This functionality is powered by Javascript code found in the `assets/js/mycode.js` file.
 
 ## Customizations Added to the Just the Docs Theme
 
