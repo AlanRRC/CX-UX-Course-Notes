@@ -295,7 +295,7 @@ fetch("https://dog.ceo/api/breeds/list/all") // Fetch returns a promise.
 
 ## Async / Await
 
-Let's move the code into a `fetchAllBreeds` function. If we mark this function as `async` we can use the `await` keyword to write code that doesn't rely on callbacks:
+Let's move the code from the last example into a `logAllBreeds` function. If we mark this function as `async` we can use the `await` keyword to write code that doesn't rely on callbacks:
 
 ```javascript
 async function logAllBreeds() {

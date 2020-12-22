@@ -5,6 +5,10 @@ nav_order: 2
 ---
 
 <!-- prettier-ignore-start -->
+## History and Camparison
+
+PHP has been around since the mid-1990s. Its syntax will be familiar to you as it is similar to some of the other languages you have already studied in the program.
+
 ## Table of Contents
 {: .no_toc .text-delta }  
 

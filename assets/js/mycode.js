@@ -5,7 +5,7 @@ document.addEventListener("DOMContentLoaded", function (event) {
 
   prepareCodepens();
   hideDraftMenuLinks();
-  prepareDraftMenuLinkUnhide();
+  prepareDraftMenuLinkToggle();
 });
 
 function prepareCodepens() {
@@ -30,7 +30,7 @@ function hideDraftMenuLinks() {
   }
 }
 
-function prepareDraftMenuLinkUnhide() {
+function prepareDraftMenuLinkToggle() {
   const footer = document.querySelector(".site-footer");
   const link = document.createElement("a");
   link.innerHTML = "π";
