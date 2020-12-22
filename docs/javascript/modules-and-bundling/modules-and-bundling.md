@@ -41,22 +41,6 @@ Upon completion of this module, you should be able to:
 - Write Javascript code that imports functionality from a node package.
 - Bundle your Javascript code using the Parcel bundler for development and production purposes.
 
-## Module Plan
-
-- The Command Line
-- Required Tools
-- History of Modules
-- Namespace Collisions
-- CommonJS and ES Modules
-- Export and Import
-- Bundling Modules
-- Node Package Modules
-- Demo Project Using NPM Modules
-- Parcel Bundler
-- Semantic Versioning
-- Transpiling
-- Browser Modules (Optional)
-
 ## In the Beginning
 
 ![In the Beginning](commandline.png){:class="small inline"}

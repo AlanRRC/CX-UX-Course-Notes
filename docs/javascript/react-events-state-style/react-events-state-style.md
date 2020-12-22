@@ -37,14 +37,6 @@ By the end of this module, you should be able to:
 - Change the look and feel of components using CSS files and inline JSX styles.
 - Fetch JSON data from a URL when a component first mounts using React's useEffect hook.
 
-## Module Plan
-
-- Handling User Events
-- Maintaining Component State
-- Handling Form Input
-- Styling Components with CSS
-- Fetching JSON Data
-
 ## Reacting to Events
 
 Adding events to JSX element is done using camelCase element attributes.
