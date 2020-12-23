@@ -7,6 +7,14 @@ nav_order: 13
 # React Events, State, and Style
 {: .no_toc }
 
+![Introduction](newtons-cradle-256213_640.jpg){:class="small inline"}
+
+React components are functions that returns JSX that can be customized by passing in "props".
+
+So far we've been creating components with JSX that remains unchanged once rendered.
+
+Here we introduce the dynamic aspects of React that allow components to persist state and to _react_ to user events.
+
 ## Table of Contents
 {: .no_toc }
 
@@ -14,16 +22,6 @@ nav_order: 13
 {:toc}
 
 <!--prettier-ignore-end-->
-
-## Introduction
-
-![Introduction](newtons-cradle-256213_640.jpg){:class="small inline"}
-
-In the Introduction to React module you learned that a React component is a function that returns JSX markup. You also learned that you can customize your components by passing in "props".
-
-Beyond this customization you were creating static markup that remains unchanged once rendered.
-
-In this module we introduce the dynamic aspects of a React that allow components to persist state and to _react_ to user events.
 
 ## Objective
 

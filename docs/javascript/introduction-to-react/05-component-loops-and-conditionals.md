@@ -8,6 +8,10 @@ nav_order: 5
 ## Component Loops and Conditionals 
 {: .no_toc }
 
+Sometimes we wish to repeat chunks of JSX or to conditionally include/exclude JSX in a component. 
+
+In React we can transform collections of data into repeated JSX using the `map` function. JSX can be conditionally included using the boolean `&&` operator and ternary statements.
+
 ## Table of Contents
 {: .no_toc .text-delta }  
 

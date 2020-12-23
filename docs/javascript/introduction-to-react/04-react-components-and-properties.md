@@ -8,6 +8,8 @@ nav_order: 4
 ## React Components and Properties 
 {: .no_toc }
 
+React components are functions that return JSX. The JSX returned can be customized through the use of component properties.
+
 ## Table of Contents
 {: .no_toc .text-delta }  
 
