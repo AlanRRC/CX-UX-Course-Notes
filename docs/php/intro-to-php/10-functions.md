@@ -8,7 +8,7 @@ nav_order: 10
 ## Functions
 {: .no_toc }
 
-Functions do things, they are the verbs of computer programming. When we use functions in our code we improve:
+Functions do things, they are the verbs of programming. By using functions in our code we improve:
 
 * Modularity, by allowing us to break down a larger program into smaller parts.
 * Reusability, by allowing us to reuse code without having to retype or copy/paste it.
