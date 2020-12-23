@@ -8,6 +8,10 @@ nav_order: 2
 ## What are Components and Component Libraries?
 {: .no_toc }
 
+Components let us modularize markup in a similar manner to how we modularize code. At their simplest, components can be thought of as reuseable HTML templates.
+
+There are a number of competiting component libraries in the Javascript ecosystem. In this course we are going to explore the React.js library.
+
 ## Table of Contents
 {: .no_toc .text-delta }  
 
