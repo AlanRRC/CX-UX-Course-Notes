@@ -8,6 +8,8 @@ nav_order: 3
 ## Loop Da Loop
 {: .no_toc }
 
+There's more to looping in Javascript than the standard `for` and `while` loops. The `for of` syntax and the `forEach` function are two ways to automatically "visit" every element in a collection of data.
+
 ## Table of Contents
 {: .no_toc .text-delta }  
 
