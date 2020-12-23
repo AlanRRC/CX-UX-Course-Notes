@@ -8,7 +8,11 @@ nav_order: 10
 ## Functions
 {: .no_toc }
 
-Functions do things, they are the verbs of computer programming.
+Functions do things, they are the verbs of computer programming. When we use functions in our code we improve:
+
+* Modularity, by allowing us to break down a larger program into smaller parts.
+* Reusability, by allowing us to reuse code without having to retype or copy/paste it.
+* Readability, by allowing us to give descriptive names to specific parts of our program.
 
 ## Table of Contents
 {: .no_toc .text-delta }  
