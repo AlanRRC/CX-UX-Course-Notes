@@ -109,7 +109,7 @@ We use `.then()` to register a callback to handle fulfilled promises. This callb
 
 We can chain `.then()`s together to link together a series of async tasks.
 
-We can also register an callback to handle rejected promises using `.catch()`.
+We can also register a callback to handle rejected promises using `.catch()`.
 
 All of this will make more sense with an example. So let's dive into fetching data using Javascript's Fetch API.
 
@@ -123,7 +123,7 @@ fetch("https://dog.ceo/api/breeds/list/all").then(function (result) {
 });
 ```
 
-This request for the top 5 articles `/r/javascript` will print to the console once the `Promise` is fulfilled:
+This request print to the console once the `Promise` is fulfilled:
 
 ```javascript
 HTTP Response Status: 200
@@ -336,7 +336,7 @@ After a user has input their username you might use AJAX to check if the name is
 
 ## When To Use AJAX
 
-AJAX tends to be used when we wish to avoid a full page reload based on a user interaction. In this way our web page will _feel_ more like an app.
+AJAX tends to be used when we wish to avoid a full page reload based on an user interaction. In this way our web page will _feel_ more like an app.
 
 Example AJAX Use-Cases:
 

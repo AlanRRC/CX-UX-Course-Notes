@@ -63,7 +63,7 @@ For example, to store information about a collection of people we might need som
 
 Here's that same structured data written as XML, the Extensible Markup Language.
 
-```php
+```xml
 <?xml version="1.0" encoding="UTF-8"?>
 <people>
   <person>
@@ -118,43 +118,57 @@ $people = [['name'    => 'Wally Glutton',
 
 Using Javascript we might encode our people data using nested objects and arrays, like this:
 
-```php
-var people = [{name:    "Wally Glutton",
-               age:     40,
-               address: {street:      "39 Good St.",
-                         city:        "Winnipeg",
-                         province:    "Manitoba",
-                         postal_code: "R3J 2K9"}},
-              {name:    "Daisy Glutton",
-               age:     38,
-               address: {street:      "8 Fine Ave",
-                         city:        "Winnipeg",
-                         province:    "Manitoba",
-                         postal_code: "R3R 2B2"}}];
+```javascript
+var people = [
+  {
+    name: "Wally Glutton",
+    age: 40,
+    address: {
+      street: "39 Good St.",
+      city: "Winnipeg",
+      province: "Manitoba",
+      postal_code: "R3J 2K9",
+    },
+  },
+  {
+    name: "Daisy Glutton",
+    age: 38,
+    address: {
+      street: "8 Fine Ave",
+      city: "Winnipeg",
+      province: "Manitoba",
+      postal_code: "R3R 2B2",
+    },
+  },
+];
 ```
 
 ## JSON Structured Data
 
-The JSON version of this structure data is just like the Javascript version with three differences: The object keys are now strings, the variable assignment was removed, and the trailing semi-colon was removed. _Note: The formatting and indentation are also different, but that's only for readability._
+The JSON version of this structure data is just like the Javascript version with three differences: The object keys are now strings, the variable assignment was removed, and the trailing semi-colon was removed.
 
-```php
+```json
 [
- { "name":    "Wally Glutton",
-   "age":     40,
-   "address": { "street":      "39 Good St.",
-                "city":        "Winnipeg",
-                "province":    "Manitoba",
-                "postal_code": "R3J 2K9"
-              }
- },
- { "name":    "Daisy Glutton",
-   "age":     38,
-   "address": { "street":      "8 Fine Ave",
-                "city":        "Winnipeg",
-                "province":    "Manitoba",
-                "postal_code": "R3R 2B2"
-              }
- }
+  {
+    "name": "Wally Glutton",
+    "age": 40,
+    "address": {
+      "street": "39 Good St.",
+      "city": "Winnipeg",
+      "province": "Manitoba",
+      "postal_code": "R3J 2K9"
+    }
+  },
+  {
+    "name": "Daisy Glutton",
+    "age": 38,
+    "address": {
+      "street": "8 Fine Ave",
+      "city": "Winnipeg",
+      "province": "Manitoba",
+      "postal_code": "R3R 2B2"
+    }
+  }
 ]
 ```
 
@@ -164,7 +178,7 @@ Notice how much more lightweight it is compared with XML. It's much shorter than
 
 JSON can also be minified (all whitespace removed) to be more efficient to transfer:
 
-```php
+```
 [{"name":"Wally Glutton","age":40,"address":{"street":"39 Good St.","city":"Winnipeg","province":"Manitoba","postal_code":"R3J 2K9"}},{"name":"Daisy Glutton","age":38,"address":{"street":"8 Fine Ave","city":"Winnipeg","province":"Manitoba","postal_code":"R3R 2B2"}}]
 ```
 
@@ -283,7 +297,7 @@ We can decode JSON fetched from a URL using `json_decode`.
 
 The actual JSON returned by the dog.ceo API call:
 
-```php
+```json
 {
   "status": "success",
   "message": [
@@ -344,7 +358,7 @@ When working with a new JSON structure it's common to inspect the decoded PHP st
 
 Although we saw earlier that JSON is Javascript (with some constraints) we can take Javascript Objects and Arrays and turn them into JSON strings by "stringifying" them:
 
-```php
+```javascript
 // Assumes access to the people variable defined above:
 var peopleJSON = JSON.stringify(people);
 
@@ -358,7 +372,7 @@ Once JSON has been stringified it is just a string, you can no longer index into
 
 If you receive JSON as a String in your Javascript you can parse it to an Object/Array structure:
 
-```php
+```javascript
 // Assuming the existing of a JSON string called peopleJSON:
 
 var people = JSON.parse(peopleJSON);
@@ -370,7 +384,7 @@ Here's how we could access JSON nested data in Javascript assuming we have our p
 
 var people = JSON.parse(peopleJSON);
 
-```php
+```javascript
 // Print the first person's name
 console.log(people[0]["name"]);
 
@@ -378,11 +392,18 @@ console.log(people[0]["name"]);
 console.log(people[1]["address"]["city"]);
 
 // Loop through the people and print out some details.
-for(var i = 0; i < people.length; i++) {
-  var name        = people[i]["name"];
-  var age         = people[i]["age"];
+for (var i = 0; i < people.length; i++) {
+  var name = people[i]["name"];
+  var age = people[i]["age"];
   var postal_code = people[i]["address"]["postal_code"];
-  console.log(name + " is " + age + " years old and lives in the " + postal_code + " postal code.");
+  console.log(
+    name +
+      " is " +
+      age +
+      " years old and lives in the " +
+      postal_code +
+      " postal code."
+  );
 }
 ```
 
