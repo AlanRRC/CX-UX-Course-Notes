@@ -38,6 +38,7 @@ Upon completion of this module, you should be able to:
 
 ## File Upload Forms
 
+```html
 <!DOCTYPE html>
 <html>
     <head><title>File Upload Form</title></head>
@@ -49,7 +50,7 @@ Upon completion of this module, you should be able to:
     </form>
 </body>
 </html>
-{: lang=html }
+```
 
 This form will allow users to browse for a single local file and upload it when the form is submitted.
 
