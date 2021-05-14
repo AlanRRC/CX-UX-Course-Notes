@@ -30,8 +30,8 @@ Let's render a simple React component:
 
 **Things to know about React components:**
 
-- React components are functions name in CamelCase.
-- Functional component return JSX.
+- React components are functions named in CamelCase.
+- Functional components return JSX.
 - Components are declared as JSX elements of the same name: `<Hello />`
 
 📢 **Note:** We won't be learning about legacy [class-based components](https://www.freecodecamp.org/news/functional-components-vs-class-components-in-react/).
