@@ -1,6 +1,6 @@
 ---
 title: Objectives
-parent: React Prerequisites
+parent: React Prerequisites (Draft)
 nav_order: 1
 ---
 
