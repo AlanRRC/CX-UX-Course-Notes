@@ -114,7 +114,7 @@ Arrow functions that contain a single statement can be written without curly bra
 
 These are called "implicit\* return" functions.
 
-let implicit = (word, emoji) => `Hello ${word}! ${emoji}`;
+````let implicit = (word, emoji) => `Hello ${word}! ${emoji}`;````
 
 Implicit return functions automatically return the value of the function statement.
 
