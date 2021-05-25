@@ -1,6 +1,6 @@
 ---
 title: JSX - Markup in JS
-parent: Introduction to React (Draft)
+parent: Introduction to React
 nav_order: 3
 ---
 
