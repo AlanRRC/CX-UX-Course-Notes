@@ -1,6 +1,6 @@
 ---
 title: Objectives & CodePen Setup
-parent: Introduction to React (Draft)
+parent: Introduction to React 
 nav_order: 1
 ---
 
