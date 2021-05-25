@@ -1,6 +1,6 @@
 ---
 title: React Components and Properties
-parent: Introduction to React (Draft)
+parent: Introduction to React
 nav_order: 4
 ---
 
