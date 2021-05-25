@@ -1,5 +1,5 @@
 ---
-title: Introduction to React (Draft)
+title: Introduction to React
 has_children: true
 nav_order: 12
 ---
