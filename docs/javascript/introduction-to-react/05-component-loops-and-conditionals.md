@@ -1,6 +1,6 @@
 ---
 title: Component Loops and Conditionals
-parent: Introduction to React (Draft)
+parent: Introduction to React
 nav_order: 5
 ---
 
