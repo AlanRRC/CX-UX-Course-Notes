@@ -1,6 +1,6 @@
 ---
 title: What are Components and Component Libraries?
-parent: Introduction to React (Draft)
+parent: Introduction to React
 nav_order: 2
 ---
 
