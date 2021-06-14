@@ -1,5 +1,5 @@
 ---
-title: React Events, State & Style (Draft)
+title: React Events, State & Style
 nav_order: 13
 ---
 
