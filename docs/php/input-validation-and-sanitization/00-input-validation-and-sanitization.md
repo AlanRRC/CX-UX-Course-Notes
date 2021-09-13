@@ -157,7 +157,7 @@ Often we combine validation and sanitization.
 ```php
 <?php
     function filtered_user_status() {
-        return input_filter(INPUT_POST, 'user_status', FILTER_SANITIZE_FULL_SPECIAL_CHARS);
+        return filter_input(INPUT_POST, 'user_status', FILTER_SANITIZE_FULL_SPECIAL_CHARS);
     }
 
     function valid_user_status() {
