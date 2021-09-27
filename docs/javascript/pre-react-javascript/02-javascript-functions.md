@@ -1,6 +1,6 @@
 ---
 title: Javascript Functions
-parent: React Prerequisites (Draft)
+parent: React Prerequisites
 nav_order: 2
 ---
 
