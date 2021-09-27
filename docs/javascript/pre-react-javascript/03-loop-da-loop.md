@@ -1,6 +1,6 @@
 ---
 title: Loop Da Loop
-parent: React Prerequisites (Draft)
+parent: React Prerequisites
 nav_order: 3
 ---
 
