@@ -1,6 +1,6 @@
 ---
 title: Spread and Rest Syntax
-parent: React Prerequisites (Draft)
+parent: React Prerequisites
 nav_order: 6
 ---
 
