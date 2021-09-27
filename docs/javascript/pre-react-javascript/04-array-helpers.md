@@ -1,6 +1,6 @@
 ---
 title: Hurray for Arrays
-parent: React Prerequisites (Draft)
+parent: React Prerequisites
 nav_order: 4
 ---
 
