@@ -1,6 +1,6 @@
 ---
 title: Staying Up To Date
-parent: React Prerequisites (Draft)
+parent: React Prerequisites
 nav_order: 7
 ---
 
