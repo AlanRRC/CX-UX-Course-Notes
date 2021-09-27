@@ -1,6 +1,6 @@
 ---
 title: Destructuring
-parent: React Prerequisites (Draft)
+parent: React Prerequisites
 nav_order: 5
 ---
 
