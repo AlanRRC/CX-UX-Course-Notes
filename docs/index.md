@@ -5,7 +5,7 @@ nav_order: 1
 permalink: /
 ---
 
-# WEBD-2008 - Web Development Two
+# CX/UX
 
 Web Development 2 builds on the skills you acquired in Web Development 1. In this course you will continue to explore the Web Development stack by incorporating server-side code. PHP will be our server-side language and we will use Javascript for our front-end development.
 
