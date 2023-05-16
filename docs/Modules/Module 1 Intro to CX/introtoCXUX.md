@@ -1,5 +1,5 @@
 ---
-title: Dynamic Content with AJAX
+title: Introduction to CX/UX
 nav_order: 9
 ---
 
@@ -63,10 +63,10 @@ For example, we can register a `click` callback function like this:
 ```javascript
 /* Assuming: <button class="reload">Reload!</button> */
 
-let button = document.querySelector("button.reload");
+let button = document.querySelector('button.reload');
 
-button.addEventListener("click", function (event) {
-  console.log(event.type + " event detected!");
+button.addEventListener('click', function (event) {
+	console.log(event.type + ' event detected!');
 });
 ```
 
@@ -77,10 +77,10 @@ In modern JS examples you may see "fat arrow" functions used as callbacks:
 ```javascript
 /* Assuming: <button class="reload">Reload!</button> */
 
-let button = document.querySelector("button.reload");
+let button = document.querySelector('button.reload');
 
-button.addEventListener("click", (event) => {
-  console.log(event.type + " event detected!");
+button.addEventListener('click', (event) => {
+	console.log(event.type + ' event detected!');
 });
 ```
 
@@ -118,8 +118,8 @@ All of this will make more sense with an example. So let's dive into fetching da
 The Fetch API makes available a global `fetch()` function that we can use to request data from a URL using HTTP. This function returns a `Promise` we can use to eventually access the fetched data.
 
 ```javascript
-fetch("https://dog.ceo/api/breeds/list/all").then(function (result) {
-  console.log("HTTP Response Status: " + result.status);
+fetch('https://dog.ceo/api/breeds/list/all').then(function (result) {
+	console.log('HTTP Response Status: ' + result.status);
 });
 ```
 
@@ -138,17 +138,17 @@ HTTP Response Status: 200
 If the data being `fetch`ed is JSON we can request another `Promise` for the de-serialized Javascript version of the JSON string.
 
 ```javascript
-fetch("https://dog.ceo/api/breeds/list/all")
-  .then(function (result) {
-    return result.json(); // Promise for parsed JSON.
-  })
-  .then(function (data) {
-    // Executed when promised JSON is ready.
-    let breeds = Object.keys(data.message);
-    for (let breed of breeds) {
-      console.log(breed);
-    }
-  });
+fetch('https://dog.ceo/api/breeds/list/all')
+	.then(function (result) {
+		return result.json(); // Promise for parsed JSON.
+	})
+	.then(function (data) {
+		// Executed when promised JSON is ready.
+		let breeds = Object.keys(data.message);
+		for (let breed of breeds) {
+			console.log(breed);
+		}
+	});
 ```
 
 The reasons we set `breeds` to `Object.keys(data.message)` is because the API returns:
@@ -179,16 +179,16 @@ And for the example we only care about the keys of the `message` property.
 Here's another example of an HTTP GET request for some JSON:
 
 ```javascript
-fetch("https://www.reddit.com/r/javascript/top/.json?limit=5")
-  .then(function (result) {
-    return result.json(); // Promise for parsed JSON.
-  })
-  .then(function (retrieved) {
-    let articles = retrieved.data.children;
-    for (let article of articles) {
-      console.log(article.data.title);
-    }
-  });
+fetch('https://www.reddit.com/r/javascript/top/.json?limit=5')
+	.then(function (result) {
+		return result.json(); // Promise for parsed JSON.
+	})
+	.then(function (retrieved) {
+		let articles = retrieved.data.children;
+		for (let article of articles) {
+			console.log(article.data.title);
+		}
+	});
 ```
 
 The relevant keys of the JSON returned by the Reddit API look like this:
@@ -218,13 +218,13 @@ The relevant keys of the JSON returned by the Reddit API look like this:
 If you wanted to use Javascript to asynchronously submit an HTML form:
 
 ```javascript
-fetch("https://example.com/endpoint", {
-  method: "post",
-  body: new FormData(document.querySelector("form")),
+fetch('https://example.com/endpoint', {
+	method: 'post',
+	body: new FormData(document.querySelector('form')),
 }).then(function (response) {
-  if (!response.ok) {
-    console.log("POST failed. Status Code:  " + response.status);
-  }
+	if (!response.ok) {
+		console.log('POST failed. Status Code:  ' + response.status);
+	}
 });
 ```
 
@@ -235,15 +235,15 @@ This will submit the data present in the first form on the page.
 Some APIs will have endpoints that you can POST JSON data to:
 
 ```javascript
-fetch("https://jsonplaceholder.typicode.com/posts", {
-  method: "POST",
-  body: JSON.stringify({ title: "foo", body: "bar", userId: 1 }),
-  headers: {
-    "Content-type": "application/json; charset=UTF-8",
-  },
+fetch('https://jsonplaceholder.typicode.com/posts', {
+	method: 'POST',
+	body: JSON.stringify({ title: 'foo', body: 'bar', userId: 1 }),
+	headers: {
+		'Content-type': 'application/json; charset=UTF-8',
+	},
 })
-  .then((response) => response.json())
-  .then((json) => console.log(json));
+	.then((response) => response.json())
+	.then((json) => console.log(json));
 ```
 
 Note the use of the fat arrow functions in the `then`s.
@@ -279,18 +279,18 @@ When working with promises we sometimes end up with a chain of `.then()` calls t
 The dog breed API example from above generates two promises, one for the `fetch` and another for parsing the returned JSON string:
 
 ```javascript
-fetch("https://dog.ceo/api/breeds/list/all") // Fetch returns a promise.
-  .then(function (result) {
-    // Then for promised fetch result.
-    return result.json(); // JSON parsing also returns a promise.
-  })
-  .then(function (data) {
-    // Then for promised JSON parsing.
-    let breeds = Object.keys(data.message);
-    for (let breed of breeds) {
-      console.log(breed);
-    }
-  });
+fetch('https://dog.ceo/api/breeds/list/all') // Fetch returns a promise.
+	.then(function (result) {
+		// Then for promised fetch result.
+		return result.json(); // JSON parsing also returns a promise.
+	})
+	.then(function (data) {
+		// Then for promised JSON parsing.
+		let breeds = Object.keys(data.message);
+		for (let breed of breeds) {
+			console.log(breed);
+		}
+	});
 ```
 
 ## Async / Await
@@ -299,13 +299,13 @@ Let's move the code from the last example into a `logAllBreeds` function. If we 
 
 ```javascript
 async function logAllBreeds() {
-  let results = await fetch("https://dog.ceo/api/breeds/list/all");
-  let data = await results.json();
+	let results = await fetch('https://dog.ceo/api/breeds/list/all');
+	let data = await results.json();
 
-  let breeds = Object.keys(data.message);
-  for (let breed of breeds) {
-    console.log(breed);
-  }
+	let breeds = Object.keys(data.message);
+	for (let breed of breeds) {
+		console.log(breed);
+	}
 }
 ```
 
