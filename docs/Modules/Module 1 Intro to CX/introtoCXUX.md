@@ -24,15 +24,13 @@ Up to this point in the course all of our code has be PHP run on a web server. I
 
 The programming language we'll be using in this module is Javascript.
 
-## Objectives
+## Outcomes
 
 Upon completion of this module, you should be able to:
 
-- Explain the client-side programming technique called AJAX.
-- Use the Javascript Fetch API to make HTTP requests from the browser.
-- Use callback functions and promises to deal with the data returned by the Fetch API.
-- Make GET and POST AJAX request using the Fetch API.
-- Understand when it's appropriate to use AJAX on a webpage.
+- Identify the key components of Customer Experience philosophy, process, and the value delivery model to understand their role in customer service.
+
+- Define customer service techniques and how they can be applied through simulation and role play to improve interactions with customers.
 
 ## Asynchronous Data Transfer
 
