@@ -1,6 +1,6 @@
 ---
 title: Introduction to CX/UX
-nav_order: 9
+nav_order: 1
 ---
 
 <!-- prettier-ignore-start -->
