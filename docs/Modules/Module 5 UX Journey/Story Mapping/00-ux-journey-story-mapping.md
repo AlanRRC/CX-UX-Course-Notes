@@ -1,10 +1,10 @@
 ---
 title: UX Journey/Story Mapping
 has_children: true
-nav_order: 11
+nav_order: 5
 ---
 
-# React Javascript Prerequisites
+# UX Journey/Story Mapping
 
 ![Introduction](vlad-bagacian-d1eaoAabeXs-unsplash.jpg){:class="small inline"}
 
