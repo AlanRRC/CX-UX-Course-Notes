@@ -1,5 +1,5 @@
 ---
-title: Introduction to CX/UX
+title: Module 1:Introduction to CX/UX
 nav_order: 1
 ---
 

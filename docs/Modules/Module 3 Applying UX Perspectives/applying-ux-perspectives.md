@@ -1,5 +1,5 @@
 ---
-title: Applying UX Perspectives and Tools
+title: Module 3:Applying UX Perspectives and Tools
 nav_order: 3
 ---
 

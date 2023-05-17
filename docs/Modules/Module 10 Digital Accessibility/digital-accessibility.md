@@ -1,5 +1,5 @@
 ---
-title: Digital Accessibility
+title: Module 10:Digital Accessibility
 nav_order: 10
 ---
 

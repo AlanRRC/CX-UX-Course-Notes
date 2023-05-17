@@ -1,5 +1,5 @@
 ---
-title: UX Journey/Story Mapping
+title: Module 5:UX Journey/Story Mapping
 has_children: true
 nav_order: 5
 ---

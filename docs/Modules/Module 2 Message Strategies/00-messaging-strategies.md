@@ -1,5 +1,5 @@
 ---
-title: Message Strategies
+title: Module 2:Message Strategies
 has_children: true
 nav_order: 2
 ---

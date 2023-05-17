@@ -1,5 +1,5 @@
 ---
-title: User Stories
+title: Module 6:User Stories
 nav_order: 13
 ---
 

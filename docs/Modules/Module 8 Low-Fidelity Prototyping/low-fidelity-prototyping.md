@@ -1,5 +1,5 @@
 ---
-title: Low-Fidelity Prototyping
+title: Module 8:Low-Fidelity Prototyping
 nav_order: 8
 ---
 

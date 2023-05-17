@@ -1,5 +1,5 @@
 ---
-title: Proof of Concept Design
+title: Module 7:Proof of Concept Design
 nav_order: 7
 ---
 
