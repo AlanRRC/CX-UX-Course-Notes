@@ -1,6 +1,6 @@
 ---
 title: Other Concerns
-parent: Javascript Modules and Bundling (Draft)
+parent: User Research and Persona Creation
 nav_order: 5
 ---
 
@@ -70,10 +70,7 @@ If you don't need `npm` packages, and your users have modern browsers, then you 
 This is done using a `type` attribute of `module` on your script tag:
 
 ```javascript
-<script type="module">
-  import reverse from './textHelpers.js'; console.log(reverse('Learn to
-  Question'));
-</script>
+<script type='module'>import reverse from './textHelpers.js'; console.log(reverse('Learn to Question'));</script>
 ```
 
 Or even:

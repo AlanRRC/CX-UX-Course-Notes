@@ -1,5 +1,5 @@
 ---
-title: React Prerequisites
+title: UX Journey/Story Mapping
 has_children: true
 nav_order: 11
 ---

@@ -1,11 +1,11 @@
 ---
-title: Introduction to CX/UX
-nav_order: 1
+title: Proof of Concept Design
+nav_order: 7
 ---
 
 <!-- prettier-ignore-start -->
 
-# Intro to CX/UX
+# Proof of Concept Design
 {: .no_toc }
 
 Up to this point in the course all of our code has be PHP run on a web server. In this module we'll explore a client-side Javascript technique called AJAX that allows us to make our websites more dynamic and app-like by fetching data directly from the server.

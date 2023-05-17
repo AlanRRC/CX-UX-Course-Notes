@@ -1,6 +1,6 @@
 ---
 title: Define & Use Modules
-parent: Javascript Modules and Bundling (Draft)
+parent: User Research and Persona Creation
 nav_order: 3
 ---
 
@@ -49,7 +49,7 @@ In `library.js`:
 ```javascript
 // Saves data to browser's localStorage.
 function save(storageData) {
-  // Implementation details skipped.
+	// Implementation details skipped.
 }
 ```
 
@@ -58,14 +58,14 @@ In `framework.js`:
 ```javascript
 // Saves data to server logs using the fetch API.
 function save(logData) {
-  // Implementation details skipped.
+	// Implementation details skipped.
 }
 ```
 
 And then somewhere in `index.js`:
 
 ```javascript
-save("Important Data That Needs Saving!");
+save('Important Data That Needs Saving!');
 ```
 
 Which `save()` will run? The one from `library.js` or the one from `framework.js`?
@@ -107,14 +107,14 @@ The file `colour.js` exports a function:
 
 ```javascript
 export function randomColour() {
-  return `#${Math.random().toString(16).slice(2, 8).padEnd(6, "0")}`;
+	return `#${Math.random().toString(16).slice(2, 8).padEnd(6, '0')}`;
 }
 ```
 
 The file `index.js` can now import and use the `randomColour` function:
 
 ```javascript
-import { randomColour } from "./colour.js";
+import { randomColour } from './colour.js';
 
 console.log(randomColour());
 ```
@@ -124,7 +124,7 @@ console.log(randomColour());
 To avoid name collisions we can change the name of imports:
 
 ```javascript
-import { randomColour as randHex } from "./colour.js";
+import { randomColour as randHex } from './colour.js';
 
 console.log(randHex());
 ```
@@ -153,16 +153,16 @@ Single exports can be made `default`:
 // In textHelpers.js:
 
 function reverse(str) {
-  return [...str].reverse().join("");
+	return [...str].reverse().join('');
 }
 
 export default reverse;
 
 // And then in index.js:
 
-import reverse from "./textHelpers.js";
+import reverse from './textHelpers.js';
 
-console.log(reverse("Learn to Question"));
+console.log(reverse('Learn to Question'));
 ```
 
 **⚠️ Warning: ** No curly braces around the import name when importing defaults.

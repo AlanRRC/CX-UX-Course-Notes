@@ -1,6 +1,6 @@
 ---
 title: Demo Project Using Parcel
-parent: Javascript Modules and Bundling (Draft)
+parent: User Research and Persona Creation
 nav_order: 4
 ---
 

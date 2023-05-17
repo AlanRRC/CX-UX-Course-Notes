@@ -1,10 +1,10 @@
 ---
-title: React Events, State & Style
+title: User Stories
 nav_order: 13
 ---
 
 <!--prettier-ignore-start-->
-# React Events, State, and Style
+# User Stories
 {: .no_toc }
 
 ![Introduction](newtons-cradle-256213_640.jpg){:class="small inline"}
@@ -128,7 +128,7 @@ Now that we know about `useState` let's build a click counter. We'll use state t
 📢 **Note:** Outside of CodePen, React apps will often import `useState` separately from the `React` object:
 
 ```javascript
-import React, { useState } from "react";
+import React, { useState } from 'react';
 ```
 
 Allowing `useState` to be accessed directly:

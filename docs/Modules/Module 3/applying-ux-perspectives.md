@@ -1,10 +1,10 @@
 ---
-title: Javascript Object Notation
-nav_order: 8
+title: Applying UX Perspectives and Tools
+nav_order: 3
 ---
 
 <!--prettier-ignore-start-->
-# Javascript Object Notation
+# Applying UX Perspectives and Tools
 {: .no_toc }
 
 **J**ava**S**cript **O**bject **N**otation, JSON for short, is file format for storing and exchanging structured data.
@@ -120,26 +120,26 @@ Using Javascript we might encode our people data using nested objects and arrays
 
 ```javascript
 var people = [
-  {
-    name: "Wally Glutton",
-    age: 40,
-    address: {
-      street: "39 Good St.",
-      city: "Winnipeg",
-      province: "Manitoba",
-      postal_code: "R3J 2K9",
-    },
-  },
-  {
-    name: "Daisy Glutton",
-    age: 38,
-    address: {
-      street: "8 Fine Ave",
-      city: "Winnipeg",
-      province: "Manitoba",
-      postal_code: "R3R 2B2",
-    },
-  },
+	{
+		name: 'Wally Glutton',
+		age: 40,
+		address: {
+			street: '39 Good St.',
+			city: 'Winnipeg',
+			province: 'Manitoba',
+			postal_code: 'R3J 2K9',
+		},
+	},
+	{
+		name: 'Daisy Glutton',
+		age: 38,
+		address: {
+			street: '8 Fine Ave',
+			city: 'Winnipeg',
+			province: 'Manitoba',
+			postal_code: 'R3R 2B2',
+		},
+	},
 ];
 ```
 
@@ -149,26 +149,26 @@ The JSON version of this structure data is just like the Javascript version with
 
 ```json
 [
-  {
-    "name": "Wally Glutton",
-    "age": 40,
-    "address": {
-      "street": "39 Good St.",
-      "city": "Winnipeg",
-      "province": "Manitoba",
-      "postal_code": "R3J 2K9"
-    }
-  },
-  {
-    "name": "Daisy Glutton",
-    "age": 38,
-    "address": {
-      "street": "8 Fine Ave",
-      "city": "Winnipeg",
-      "province": "Manitoba",
-      "postal_code": "R3R 2B2"
-    }
-  }
+	{
+		"name": "Wally Glutton",
+		"age": 40,
+		"address": {
+			"street": "39 Good St.",
+			"city": "Winnipeg",
+			"province": "Manitoba",
+			"postal_code": "R3J 2K9"
+		}
+	},
+	{
+		"name": "Daisy Glutton",
+		"age": 38,
+		"address": {
+			"street": "8 Fine Ave",
+			"city": "Winnipeg",
+			"province": "Manitoba",
+			"postal_code": "R3R 2B2"
+		}
+	}
 ]
 ```
 
@@ -299,21 +299,21 @@ The actual JSON returned by the dog.ceo API call:
 
 ```json
 {
-  "status": "success",
-  "message": [
-    "affenpinscher",
-    "african",
-    "airedale",
-    "akita",
-    "appenzeller",
-    "basenji",
-    "beagle",
-    /* Removed a number of the breeds for brevity! */
-    "vizsla",
-    "weimaraner",
-    "whippet",
-    "wolfhound"
-  ]
+	"status": "success",
+	"message": [
+		"affenpinscher",
+		"african",
+		"airedale",
+		"akita",
+		"appenzeller",
+		"basenji",
+		"beagle",
+		/* Removed a number of the breeds for brevity! */
+		"vizsla",
+		"weimaraner",
+		"whippet",
+		"wolfhound"
+	]
 }
 ```
 
@@ -386,24 +386,17 @@ var people = JSON.parse(peopleJSON);
 
 ```javascript
 // Print the first person's name
-console.log(people[0]["name"]);
+console.log(people[0]['name']);
 
 // Print the second person's city
-console.log(people[1]["address"]["city"]);
+console.log(people[1]['address']['city']);
 
 // Loop through the people and print out some details.
 for (var i = 0; i < people.length; i++) {
-  var name = people[i]["name"];
-  var age = people[i]["age"];
-  var postal_code = people[i]["address"]["postal_code"];
-  console.log(
-    name +
-      " is " +
-      age +
-      " years old and lives in the " +
-      postal_code +
-      " postal code."
-  );
+	var name = people[i]['name'];
+	var age = people[i]['age'];
+	var postal_code = people[i]['address']['postal_code'];
+	console.log(name + ' is ' + age + ' years old and lives in the ' + postal_code + ' postal code.');
 }
 ```
 

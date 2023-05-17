@@ -1,6 +1,6 @@
 ---
 title: Tooling Setup
-parent: Javascript Modules and Bundling (Draft)
+parent: User Research and Persona Creation
 nav_order: 2
 ---
 

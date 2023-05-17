@@ -1,10 +1,10 @@
 ---
-title: Introduction to React
+title: Message Strategies
 has_children: true
-nav_order: 12
+nav_order: 2
 ---
 
-# Introduction to React
+# Messaging Strategies
 
 In the early days of the web all HTML was stored or generated on the server. As websites grew in complexity, developers began to use Javascript to dynamically change a page's markup.
 

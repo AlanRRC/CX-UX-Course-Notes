@@ -1,12 +1,12 @@
 ---
-title: Javascript Modules and Bundling (Draft)
+title: User Research and Persona Creation
 has_children: true
-nav_order: 14
+nav_order: 4
 ---
 
 <!--prettier-ignore-start-->
 
-# Javascript Modules and Bundling
+# User Research and Persona Creation
 
 {: .no_toc }
 
