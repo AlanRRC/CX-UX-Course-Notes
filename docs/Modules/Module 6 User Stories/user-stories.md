@@ -1,6 +1,6 @@
 ---
 title: Module 6:User Stories
-nav_order: 13
+nav_order: 6
 ---
 
 <!--prettier-ignore-start-->
