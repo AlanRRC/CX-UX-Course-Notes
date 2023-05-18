@@ -3,16 +3,19 @@ title: Module 2:Message Strategies
 nav_order: 2
 ---
 
+<!-- prettier-ignore-start -->
+
 # Module 2: Message Strategies
 
 An insightful yet charming intro into this module's content.
 
 ## Table of Contents
-
 {: .no_toc }
 
 1. TOC
-   {:toc}
+{:toc}
+
+<!-- prettier-ignore-end -->
 
 ## Outcomes
 
