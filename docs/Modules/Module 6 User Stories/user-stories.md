@@ -5,7 +5,7 @@ nav_order: 6
 
 <!--prettier-ignore-start-->
 
-# User Stories
+# Module 6: User Stories
 
 {: .no_toc }
 

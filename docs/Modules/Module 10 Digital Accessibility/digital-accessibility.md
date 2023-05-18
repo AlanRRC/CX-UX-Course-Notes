@@ -5,7 +5,7 @@ nav_order: 10
 
 <!-- prettier-ignore-start -->
 
-# Digital Accessibility
+# Module 10: Digital Accessibility
 
 {: .no_toc }
 

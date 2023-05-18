@@ -5,7 +5,7 @@ nav_order: 9
 
 <!-- prettier-ignore-start -->
 
-# User Testing
+# Module 9: User Testing
 
 {: .no_toc }
 

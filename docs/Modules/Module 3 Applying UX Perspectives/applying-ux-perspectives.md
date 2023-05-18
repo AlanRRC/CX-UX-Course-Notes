@@ -5,7 +5,7 @@ nav_order: 3
 
 <!--prettier-ignore-start-->
 
-# Applying UX Perspectives and Tools
+# Module 3: Applying UX Perspectives and Tools
 
 {: .no_toc }
 

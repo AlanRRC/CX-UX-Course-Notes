@@ -5,7 +5,7 @@ nav_order: 7
 
 <!-- prettier-ignore-start -->
 
-# Proof of Concept Design
+# Module 7: Proof of Concept Design
 
 {: .no_toc }
 

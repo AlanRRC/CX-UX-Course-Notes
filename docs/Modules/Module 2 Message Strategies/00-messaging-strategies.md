@@ -3,7 +3,7 @@ title: Module 2:Message Strategies
 nav_order: 2
 ---
 
-## Module 2: Message Strategies
+# Module 2: Message Strategies
 
 An insightful yet charming intro into this module's content.
 

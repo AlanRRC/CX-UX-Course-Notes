@@ -5,7 +5,7 @@ nav_order: 8
 
 <!-- prettier-ignore-start -->
 
-# Low-Fidelity Prototyping
+# Module 8: Low-Fidelity Prototyping
 
 {: .no_toc }
 

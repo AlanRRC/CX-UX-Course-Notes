@@ -5,7 +5,7 @@ nav_order: 1
 
 <!-- prettier-ignore-start -->
 
-# Intro to CX/UX
+# Module 1: Intro to CX/UX
 {: .no_toc }
 
 An insightful yet charming intro into this module's content. 

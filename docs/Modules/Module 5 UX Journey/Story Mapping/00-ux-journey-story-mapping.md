@@ -4,7 +4,7 @@ has_children: true
 nav_order: 5
 ---
 
-# UX Journey/Story Mapping
+# Module 5: UX Journey/Story Mapping
 
 An insightful yet charming intro into this module's content.
 

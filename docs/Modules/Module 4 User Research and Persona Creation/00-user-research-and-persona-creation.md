@@ -6,7 +6,7 @@ nav_order: 4
 
 <!--prettier-ignore-start-->
 
-# User Research and Persona Creation
+# Module 4: User Research and Persona Creation
 
 {: .no_toc }
 

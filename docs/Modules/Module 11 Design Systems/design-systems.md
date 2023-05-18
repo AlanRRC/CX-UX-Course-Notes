@@ -5,7 +5,7 @@ nav_order: 11
 
 <!-- prettier-ignore-start -->
 
-# Design Systems
+# Module 11: Design Systems
 
 {: .no_toc }
 
