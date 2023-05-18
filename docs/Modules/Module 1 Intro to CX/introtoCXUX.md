@@ -34,6 +34,9 @@ Upon completion of this module, you should be able to:
 
 ## Concepts and Resources
 
+1. TOC
+   {:toc}
+
 ### The Key Components of Customer Experience Philosophy
 
 1. **Customer Needs**: Understanding and addressing the needs and expectations of customers is fundamental to providing a positive experience. This involves identifying their pain points, desires, and preferences.
