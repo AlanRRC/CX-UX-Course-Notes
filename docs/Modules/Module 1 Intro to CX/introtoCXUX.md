@@ -18,12 +18,6 @@ Up to this point in the course all of our code has be PHP run on a web server. I
 
 <!-- prettier-ignore-end -->
 
-## Introduction
-
-Up to this point in the course all of our code has be PHP run on a web server. In this module we'll explore a client-side programming technique called AJAX that allows us to make our websites more dynamic and app-like by fetching data directly from the server.
-
-The programming language we'll be using in this module is Javascript.
-
 ## Outcomes
 
 Upon completion of this module, you should be able to:
@@ -32,7 +26,7 @@ Upon completion of this module, you should be able to:
 
 - Define customer service techniques and how they can be applied through simulation and role play to improve interactions with customers.
 
-## Asynchronous Data Transfer
+### Asynchronous Data Transfer
 
 ![Asynchronous Data Transfer](async.png)
 
