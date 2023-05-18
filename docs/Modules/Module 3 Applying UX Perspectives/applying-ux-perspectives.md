@@ -12,11 +12,12 @@ nav_order: 3
 An insightful yet charming intro into this module's content.
 
 ## Table of Contents
-
 {: .no_toc }
 
 1. TOC
    {:toc}
+      
+<!-- prettier-ignore-end -->
 
 ## Outcomes
 
