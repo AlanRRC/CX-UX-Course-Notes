@@ -32,15 +32,7 @@ Upon completion of this module, you should be able to:
 
 - Define customer service techniques and how they can be applied through simulation and role play to improve interactions with customers.
 
-<!-- prettier-ignore-start -->
-
 ## Concepts and Resources
-{: .no_toc}
-
-1. TOC
-{:toc}
-      
-<!-- prettier-ignore-end -->
 
 ### The Key Components of Customer Experience Philosophy
 
