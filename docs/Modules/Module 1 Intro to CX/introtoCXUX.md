@@ -32,9 +32,7 @@ Upon completion of this module, you should be able to:
 
 - Define customer service techniques and how they can be applied through simulation and role play to improve interactions with customers.
 
-## Concepts and Resources
-
-### The Key Components of Customer Experience Philosophy
+## The Key Components of Customer Experience Philosophy
 
 1. **Customer Needs**: Understanding and addressing the needs and expectations of customers is fundamental to providing a positive experience. This involves identifying their pain points, desires, and preferences.
 
@@ -54,7 +52,7 @@ Upon completion of this module, you should be able to:
 
 1. **Continuous Improvement**: Regularly collecting customer feedback, measuring satisfaction, and analyzing data allows businesses to identify areas for improvement and make necessary adjustments to enhance the customer experience over time.
 
-### CX Value Delivery Model
+## CX Value Delivery Model
 
 The CX value delivery model, also known as Customer Experience value delivery model, is a framework that organizations use to create and deliver exceptional customer experiences. It focuses on understanding and meeting customer needs and expectations at every touchpoint throughout the customer journey. The model emphasizes the value that customers derive from their interactions with a company, aiming to build long-term customer loyalty and satisfaction.
 
