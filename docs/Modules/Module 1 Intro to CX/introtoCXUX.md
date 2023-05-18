@@ -8,7 +8,13 @@ nav_order: 1
 # Module 1: Intro to CX/UX
 {: .no_toc }
 
-An insightful yet charming intro into this module's content. 
+CX and UX are two related concepts in the field of user experience and customer experience.
+
+1. CX (Customer Experience): CX refers to the overall experience a customer has with a company or brand throughout their entire journey, including before, during, and after making a purchase. It encompasses every touchpoint and interaction the customer has with the company, such as browsing a website, contacting customer support, receiving a product or service, and providing feedback. The goal of CX is to create positive and memorable experiences that lead to customer satisfaction, loyalty, and advocacy.
+
+1. UX (User Experience): UX focuses specifically on the experience users have when interacting with a product, service, or system. It involves designing and optimizing the usability, accessibility, and enjoyment of the user interface and interaction. UX professionals consider factors such as ease of use, efficiency, learnability, and emotional response to ensure that users can accomplish their goals effectively and efficiently. UX design incorporates user research, prototyping, testing, and iteration to create intuitive and user-centered experiences.
+
+While CX and UX have distinct scopes, they share a common objective: to create positive experiences for customers or users. Good UX design is often a component of a broader CX strategy, as a well-designed product or service contributes to a positive overall customer experience.
 
 ## Table of Contents
 {: .no_toc }
@@ -28,7 +34,7 @@ Upon completion of this module, you should be able to:
 
 ## Concepts and Resources
 
-### The Key Components of Customer Experience
+### The Key Components of Customer Experience Philosophy
 
 1. **Customer Needs**: Understanding and addressing the needs and expectations of customers is fundamental to providing a positive experience. This involves identifying their pain points, desires, and preferences.
 
@@ -47,6 +53,26 @@ Upon completion of this module, you should be able to:
 1. **Emotional Connection**: Building an emotional connection with customers can lead to stronger brand loyalty and advocacy. Creating positive emotions through exceptional service, personalized interactions, and memorable experiences helps foster a long-term relationship with customers.
 
 1. **Continuous Improvement**: Regularly collecting customer feedback, measuring satisfaction, and analyzing data allows businesses to identify areas for improvement and make necessary adjustments to enhance the customer experience over time.
+
+### CX Value Delivery Model
+
+The CX value delivery model, also known as Customer Experience value delivery model, is a framework that organizations use to create and deliver exceptional customer experiences. It focuses on understanding and meeting customer needs and expectations at every touchpoint throughout the customer journey. The model emphasizes the value that customers derive from their interactions with a company, aiming to build long-term customer loyalty and satisfaction.
+
+The CX value delivery model typically consists of the following key elements:
+
+1. **Customer Insight**: This stage involves gathering data and insights about customers, including their preferences, behaviors, and pain points. Organizations may use various methods such as surveys, interviews, and data analytics to gain a deep understanding of their customers.
+
+1. **Customer Segmentation**: Once customer insights are obtained, organizations segment their customer base into groups based on common characteristics, needs, and behaviors. This allows for personalized and targeted experiences that resonate with specific customer segments.
+
+1. **Customer Journey Mapping**: Customer journey mapping involves visualizing and understanding the end-to-end customer experience across various touchpoints and interactions with the organization. This helps identify opportunities for improvement and areas where customers may encounter challenges or frustrations.
+
+1. **Experience Design**: In this stage, organizations design and create customer experiences that align with customer expectations and needs. This includes designing user-friendly interfaces, optimizing processes, and ensuring consistency across different channels and interactions.
+
+1. **Experience Delivery**: Once the experiences are designed, organizations focus on delivering them consistently across all touchpoints. This involves training employees, implementing systems and technologies, and establishing processes to ensure seamless delivery of experiences.
+
+1. **Measurement and Optimization**: Organizations measure and track the effectiveness of their customer experiences using metrics such as customer satisfaction, Net Promoter Score (NPS), and customer lifetime value. Feedback from customers is collected and analyzed to identify areas for improvement and optimize the customer experience.
+
+By following the CX value delivery model, organizations strive to create positive and memorable experiences for their customers, ultimately leading to increased customer loyalty, advocacy, and business success.
 
 ## What's Next
 
