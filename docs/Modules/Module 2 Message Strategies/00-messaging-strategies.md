@@ -1,13 +1,28 @@
 ---
 title: Module 2:Message Strategies
-has_children: true
 nav_order: 2
 ---
 
-# Messaging Strategies
+## Module 2: Message Strategies
 
-In the early days of the web all HTML was stored or generated on the server. As websites grew in complexity, developers began to use Javascript to dynamically change a page's markup.
+An insightful yet charming intro into this module's content.
 
-In recent years a number of Javascript libraries have been developed to make browser-generated markup easier to manage.
+## Outcomes
 
-In this module we will explore this style of "client-side" web app development using [React](https://reactjs.org/), an open-source UI library sponsored by Facebook.
+Upon completion of this module, you should be able to:
+
+- Identify the key components of Customer Experience philosophy, process, and the value delivery model to understand their role in customer service.
+
+- Define customer service techniques and how they can be applied through simulation and role play to improve interactions with customers.
+
+## Concepts and Resources
+
+Here we'll discuss the topic, add links to resources, and any supportive images/graphs/charts that might be helpful.
+
+## What's Next
+
+A clever segue into the next module.
+
+## Glossary
+
+Here we'll create a list of the module's key terms

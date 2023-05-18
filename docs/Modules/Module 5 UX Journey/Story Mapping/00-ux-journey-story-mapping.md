@@ -6,10 +6,24 @@ nav_order: 5
 
 # UX Journey/Story Mapping
 
-![Introduction](vlad-bagacian-d1eaoAabeXs-unsplash.jpg){:class="small inline"}
+An insightful yet charming intro into this module's content.
 
-The next step in your Javascript journey is to learn the front-end component framework React.
+## Outcomes
 
-But before we get to React, there are a few more Javascript features you need to learn. Knowing these features will help you better understand the example code you'll encounter while learning React (or any other new JS library or framework).
+Upon completion of this module, you should be able to:
 
-This module is a collection of modern Javascript tips and tricks.
+- Identify the key components of Customer Experience philosophy, process, and the value delivery model to understand their role in customer service.
+
+- Define customer service techniques and how they can be applied through simulation and role play to improve interactions with customers.
+
+## Concepts and Resources
+
+Here we'll discuss the topic, add links to resources, and any supportive images/graphs/charts that might be helpful.
+
+## What's Next
+
+A clever segue into the next module.
+
+## Glossary
+
+Here we'll create a list of the module's key terms

@@ -1,15 +1,22 @@
 ---
-title: Module 8:Low-Fidelity Prototyping
-nav_order: 8
+title: Module Notes Template
+nav_order: 0
 ---
 
 <!-- prettier-ignore-start -->
 
-# Low-Fidelity Prototyping
-
+# Module Title
 {: .no_toc }
 
-An insightful yet charming intro into this module's content.
+An insightful yet charming intro into this module's content. 
+
+## Table of Contents
+{: .no_toc }
+
+1. TOC
+{:toc}
+
+<!-- prettier-ignore-end -->
 
 ## Outcomes
 
