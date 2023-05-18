@@ -12,6 +12,13 @@ nav_order: 4
 
 An insightful yet charming intro into this module's content.
 
+## Table of Contents
+
+{: .no_toc }
+
+1. TOC
+   {:toc}
+
 ## Outcomes
 
 Upon completion of this module, you should be able to:
