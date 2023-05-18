@@ -3,10 +3,9 @@ title: Module 3:Applying UX Perspectives and Tools
 nav_order: 3
 ---
 
-<!--prettier-ignore-start-->
+<!-- prettier-ignore-start-->
 
 # Module 3: Applying UX Perspectives and Tools
-
 {: .no_toc }
 
 An insightful yet charming intro into this module's content.
@@ -15,7 +14,7 @@ An insightful yet charming intro into this module's content.
 {: .no_toc }
 
 1. TOC
-   {:toc}
+{:toc}
       
 <!-- prettier-ignore-end -->
 

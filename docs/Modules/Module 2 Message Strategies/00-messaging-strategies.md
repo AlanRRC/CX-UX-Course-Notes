@@ -3,7 +3,7 @@ title: Module 2:Message Strategies
 nav_order: 2
 ---
 
-<!--prettier-ignore-start -->
+<!-- prettier-ignore-start -->
 
 # Module 2: Message Strategies
 {: .no_toc }
