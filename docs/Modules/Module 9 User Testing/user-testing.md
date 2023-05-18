@@ -6,10 +6,17 @@ nav_order: 9
 <!-- prettier-ignore-start -->
 
 # Module 9: User Testing
-
 {: .no_toc }
 
-An insightful yet charming intro into this module's content.
+An insightful yet charming intro into this module's content. 
+
+## Table of Contents
+{: .no_toc }
+
+1. TOC
+{:toc}
+
+<!-- prettier-ignore-end -->
 
 ## Outcomes
 

@@ -4,16 +4,20 @@ has_children: true
 nav_order: 5
 ---
 
+<!--prettier-ignore-start-->
+
 # Module 5: UX Journey/Story Mapping
+{: .no_toc }
 
 An insightful yet charming intro into this module's content.
 
 ## Table of Contents
-
 {: .no_toc }
 
 1. TOC
-   {:toc}
+{:toc}
+      
+<!-- prettier-ignore-end -->
 
 ## Outcomes
 
