@@ -1,5 +1,4 @@
 ---
-title: Module Notes Template(draft)
 nav_order: 0
 ---
 
