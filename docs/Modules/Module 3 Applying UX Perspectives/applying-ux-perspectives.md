@@ -22,9 +22,15 @@ An insightful yet charming intro into this module's content.
 
 Upon completion of this module, you should be able to:
 
-- Identify the key components of Customer Experience philosophy, process, and the value delivery model to understand their role in customer service.
+- Apply UX perspectives and tools, such as user-centered design and design thinking, in the preliminary stages of a software development project to ensure a user-focused approach.
 
-- Define customer service techniques and how they can be applied through simulation and role play to improve interactions with customers.
+- Describe the difference between UI and UX and CX
+
+# Figma
+
+[Figma](https://www.figma.com) is a cloud-based application used for interface design. Figma focuses on user interface and user experience design, with an emphasis on real-time collaboration.
+
+Create an account using your RRC Polytech email address to get pro features for free!
 
 ## Concepts and Resources
 

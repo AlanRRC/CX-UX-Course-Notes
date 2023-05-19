@@ -59,13 +59,13 @@ The purpose of creating user personas is to gain a deeper understanding of the n
 
 User personas typically include various demographic, psychographic, and behavioral characteristics, such as age, gender, occupation, education, interests, motivations, pain points, and buying habits. They may also include personal background information, such as family status, hobbies, and values.
 
-Here's an example to illustrate the concept: Let's say a company is developing a fitness tracking app. They may create user personas like "Active Alex," a 30-year-old professional who enjoys running and weightlifting, and "Yoga Yara," a 45-year-old yoga enthusiast who values mindfulness and stress reduction. These personas help the company understand the specific needs and preferences of their target users and guide decision-making throughout the app's development and marketing process.
+Here's an example to illustrate the concept: Let's say a company is developing a fitness tracking app. They may create user personas like "Active Alex," a 30-year-old professional who enjoys cycling and weightlifting, and "Yoga Yara," a 45-year-old yoga enthusiast who values mindfulness and stress reduction. These personas help the company understand the specific needs and preferences of their target users and guide decision-making throughout the app's development and marketing process.
 
 Overall, user personas serve as a tool to humanize and empathize with the target audience, ensuring that businesses design products and services that meet their users' expectations and deliver value.
 
 ## What's Next
 
-A clever segue into the next module.
+Next time we'll be leveraging our tech savvy with a popular design tool: Figma. We'll drill down into the differences between UI, UX, and CX, and begin to apply UX perspectives.
 
 ## Glossary
 
