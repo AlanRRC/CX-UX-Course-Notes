@@ -8,7 +8,7 @@ nav_order: 8
 # Module 8: Low-Fidelity Prototyping
 {: .no_toc }
 
-An insightful yet charming intro into this module's content. 
+Low-fidelity prototyping is a technique used in the field of design and product development to quickly and inexpensively create rough representations of ideas or concepts. It involves creating simple and basic versions of a product or system, typically using materials such as paper, cardboard, or digital tools like wireframing software. 
 
 ## Table of Contents
 {: .no_toc }
@@ -24,9 +24,17 @@ Upon completion of this module, you should be able to:
 
 - Build a (low fidelity) prototype that incorporates wireframes to create a simple but effective software solution.
 
-## Concepts and Resources
+## Testing Ideas
 
-Here we'll discuss the topic, add links to resources, and any supportive images/graphs/charts that might be helpful.
+The primary goal of low-fidelity prototyping is to explore and test different design ideas, interactions, and user experiences early in the development process. It allows designers and stakeholders to gather feedback, make iterations, and validate concepts before investing significant time and resources in higher fidelity prototypes or the final product.
+
+Low-fidelity prototypes are intentionally simple and lack the intricate details and functionality of a finished product. They focus on conveying the core concepts and interactions in a tangible form, allowing users or stakeholders to provide input and evaluate the design's feasibility, usability, and effectiveness.
+
+Common examples of low-fidelity prototypes include paper sketches, storyboards, physical models made of simple materials, interactive wireframes, or even digital mockups without advanced functionality. These prototypes are quick to create, modify, and discard, enabling a rapid and iterative design process.
+
+# Add some images for examples here
+
+Overall, low-fidelity prototyping is a valuable technique for exploring ideas, gathering feedback, and refining designs early in the development cycle, helping to save time, resources, and mitigate risks associated with more complex and costly iterations later on.
 
 ## What's Next
 

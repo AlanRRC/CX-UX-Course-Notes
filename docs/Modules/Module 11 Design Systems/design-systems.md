@@ -22,9 +22,7 @@ An insightful yet charming intro into this module's content.
 
 Upon completion of this module, you should be able to:
 
-- Identify the key components of Customer Experience philosophy, process, and the value delivery model to understand their role in customer service.
-
-- Define customer service techniques and how they can be applied through simulation and role play to improve interactions with customers.
+- Analyze design systems and their impact on software development, including how they can improve efficiency and consistency in the design process.
 
 ## Concepts and Resources
 

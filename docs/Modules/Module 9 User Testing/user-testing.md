@@ -8,7 +8,7 @@ nav_order: 9
 # Module 9: User Testing
 {: .no_toc }
 
-An insightful yet charming intro into this module's content. 
+Conduct user testing to gather feedback and insights about the user experience and make iterative improvements to the software solution.  
 
 ## Table of Contents
 {: .no_toc }
@@ -22,9 +22,7 @@ An insightful yet charming intro into this module's content.
 
 Upon completion of this module, you should be able to:
 
-- Identify the key components of Customer Experience philosophy, process, and the value delivery model to understand their role in customer service.
-
-- Define customer service techniques and how they can be applied through simulation and role play to improve interactions with customers.
+- Conduct user testing to gather feedback and insights about the user experience and make iterative improvements to the software solution.
 
 ## Concepts and Resources
 
