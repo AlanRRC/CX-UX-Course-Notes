@@ -32,7 +32,7 @@ Low-fidelity prototypes are intentionally simple and lack the intricate details 
 
 Common examples of low-fidelity prototypes include paper sketches, storyboards, physical models made of simple materials, interactive wireframes, or even digital mockups without advanced functionality. These prototypes are quick to create, modify, and discard, enabling a rapid and iterative design process.
 
-# Add some images for examples here
+## Add some images for examples here
 
 Overall, low-fidelity prototyping is a valuable technique for exploring ideas, gathering feedback, and refining designs early in the development cycle, helping to save time, resources, and mitigate risks associated with more complex and costly iterations later on.
 
