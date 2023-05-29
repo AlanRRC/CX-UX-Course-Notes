@@ -1,11 +1,11 @@
 ---
-title: Module 3:Applying UX Perspectives and Tools
-nav_order: 3
+title: Module 2:Applying UX Perspectives and Tools
+nav_order: 2
 ---
 
 <!-- prettier-ignore-start-->
 
-# Module 3: Applying UX Perspectives and Tools
+# Module 2: Applying UX Perspectives and Tools
 {: .no_toc }
 
 An insightful yet charming intro into this module's content.
@@ -31,6 +31,8 @@ Upon completion of this module, you should be able to:
 [Figma](https://www.figma.com) is a cloud-based application used for interface design. Figma focuses on user interface and user experience design, with an emphasis on real-time collaboration.
 
 Create an account using your RRC Polytech email address to get pro features for free!
+
+**add a walkthrough with screenshots here**
 
 ## Concepts and Resources
 
