@@ -52,7 +52,8 @@ Right now you are set up for the free Figma account. But as a college student, y
 
 1. Fill out Figma's verification form similar to as shown below. ![Figma Education Form](figma7.png)
 
-1. That's it! Next you should see that you are verified and able to use Figma's Pro features. ![Approved](figma8.png)
+1. That's it! Next you should see that you are verified and able to use Figma's Pro features.
+   ![Approved](figma8.png)
 
 Create a workspace and start having fun with all the options. [This Intro Video](https://youtu.be/jk1T0CdLxwU?t=85) may help!
 
