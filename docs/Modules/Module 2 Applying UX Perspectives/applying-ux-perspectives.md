@@ -45,6 +45,7 @@ Create an account using your RRC Polytech email address to get pro features for 
 1. If you like, include what's bringing you to Figma and who you collaborate with, but you can skip this part if you like. ![What brings you to Figma](figma5.png) ![Collaborate](figma6.png)
 
 **Get Verified as a College Student**
+
 Right now you are set up for the free Figma account. But as a college student, you're entitled to get Figma's Pro features with your college credentials!
 
 1. Visit [Figma Education](https://www.figma.com/education) and click on "Get Verified". ![Verified](figma0.png)
