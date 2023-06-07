@@ -32,7 +32,9 @@ Upon completion of this module, you should be able to:
 
 Create an account using your RRC Polytech email address to get pro features for free!
 
-**add a walkthrough with screenshots here**
+**Registration Process**
+
+1. Visit [Figma](https://www.figma.com) and on the top right click "Get Started". ![Get Started](getstarted.png)
 
 ## Concepts and Resources
 
