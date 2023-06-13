@@ -41,6 +41,16 @@ Journey maps typically include information such as:
 
 Journey mapping helps organizations gain a deeper understanding of their customers or users and enables them to design and optimize their products, services, or processes to better meet their needs and expectations. It is a valuable tool for aligning business objectives with customer-centric design and creating more meaningful and satisfying experiences.
 
+## Module Resources
+
+A helpful batch of links to resources that may have been used for activities and/or discussions during this week's module.
+
+1. [Journey Mapping 101](https://www.nngroup.com/articles/journey-mapping-101/)
+
+1. [User Journey Map Template](<https://www.figma.com/community/file/1215068681523967190/User-Journey-Map-Template-(Community)>)
+
+1. [AirBnB](https://www.airbnb.ca/)
+
 ## What's Next
 
 A clever segue into the next module.

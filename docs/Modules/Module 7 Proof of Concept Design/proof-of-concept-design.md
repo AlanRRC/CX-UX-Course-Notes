@@ -50,6 +50,14 @@ Here are a few examples of proof of concept (POC) projects in various fields:
 
 These examples illustrate how proof of concept projects can be used to validate ideas, explore feasibility, and showcase the potential of emerging technologies in various industries.
 
+## Module Resources
+
+A helpful batch of links to resources that may have been used for activities and/or discussions during this week's module.
+
+1. [Prototype to Product](https://www.interaction-design.org/literature/article/from-prototype-to-product-ensuring-your-solution-is-feasible-and-viable)
+
+1. [Types of Feasibility Studies](https://www.geeksforgeeks.org/types-of-feasibility-study-in-software-project-development/)
+
 ## What's Next
 
 A clever segue into the next module.

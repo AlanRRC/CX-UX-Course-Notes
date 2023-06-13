@@ -50,18 +50,13 @@ CX message strategies, or customer experience message strategies, refer to the m
 
 These strategies are not exhaustive, and businesses may combine multiple approaches based on their specific goals, target audience, and industry. Successful CX message strategies align with the overall customer experience strategy of the organization and contribute to building strong and long-lasting customer relationships.
 
-## Personas
+## Module Resources
 
-![User Persona](persona.png)
-User personas, also known as buyer personas or customer personas, are fictional representations of idealized users or customers that businesses create to better understand and cater to their target audience. A user persona is typically based on research, data, and insights gathered from real users.
+A helpful batch of links to resources that may have been used for activities and/or discussions during this week's module.
 
-The purpose of creating user personas is to gain a deeper understanding of the needs, goals, preferences, and behaviors of different user segments. By personifying the target audience, businesses can create more focused and effective marketing strategies, product designs, and user experiences.
+1. [Crafting Effective Messages for Different Audiences](https://www.managements.coach/business-communication-strategies-tailoring-messages-to-the-audience)
 
-User personas typically include various demographic, psychographic, and behavioral characteristics, such as age, gender, occupation, education, interests, motivations, pain points, and buying habits. They may also include personal background information, such as family status, hobbies, and values.
-
-Here's an example to illustrate the concept: Let's say a company is developing a fitness tracking app. They may create user personas like "Active Alex," a 30-year-old professional who enjoys cycling and weightlifting, and "Yoga Yara," a 45-year-old yoga enthusiast who values mindfulness and stress reduction. These personas help the company understand the specific needs and preferences of their target users and guide decision-making throughout the app's development and marketing process.
-
-Overall, user personas serve as a tool to humanize and empathize with the target audience, ensuring that businesses design products and services that meet their users' expectations and deliver value.
+1. [Tailored Presentations](https://hbr.org/2015/04/the-best-presentations-are-tailored-to-the-audience)
 
 ## What's Next
 

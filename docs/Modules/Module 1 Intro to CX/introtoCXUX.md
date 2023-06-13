@@ -90,9 +90,19 @@ Customer service techniques refer to strategies and approaches used to effective
 
 Simulation and role play provide a safe environment for employees to practice and refine their customer service techniques. They allow employees to experiment, make mistakes, and receive constructive feedback. By applying these techniques in simulated scenarios, employees can build confidence, develop their skills, and improve their interactions with real customers, leading to better customer satisfaction and loyalty.
 
+## Module Resources
+
+A helpful batch of links to resources that may have been used for activities and/or discussions during this week's module.
+
+1. (What is Customer Service Philosophy?)[https://www.zendesk.com/blog/craft-customer-service-philosophy-resonates/] A discussion that introduces some guiding principles of Customer Service.
+
+1. (PageFlows)[https://pageflows.com/] was used to compare the UX elements of Netflix and Linear
+
+1. (userinyearface)[https://userinyerface.com] was a registration form that may have been challenging to complete.
+
 ## What's Next
 
-In this module you've learned about key components and customer service strategies, but how that message is conveyed is equally important. In the next module, we'll focus on Message Strategies and learn about methods used by businesses to communicate with their customers.
+In this module you've learned about key components and customer service strategies, but how that message is conveyed is equally important. In the next module, we'll focus on User Research and learn about Figma, a prototyping tool that you'll create an account for.
 
 ## Glossary
 

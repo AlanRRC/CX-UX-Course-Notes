@@ -36,6 +36,16 @@ Common examples of low-fidelity prototypes include paper sketches, storyboards, 
 
 Overall, low-fidelity prototyping is a valuable technique for exploring ideas, gathering feedback, and refining designs early in the development cycle, helping to save time, resources, and mitigate risks associated with more complex and costly iterations later on.
 
+## Module Resources
+
+A helpful batch of links to resources that may have been used for activities and/or discussions during this week's module.
+
+Resources to read prior to class:
+
+1. [Paper Prototyping](https://www.nngroup.com/articles/paper-prototyping/)
+
+1. [Why You Should Draw Wireframes](https://www.nngroup.com/articles/draw-wireframe-even-if-you-cant-draw/)
+
 ## What's Next
 
 A clever segue into the next module.

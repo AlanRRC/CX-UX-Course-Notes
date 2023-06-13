@@ -42,6 +42,10 @@ User stories are often written on small index cards or sticky notes, which can b
 
 TBD!
 
+## Module Resources
+
+A helpful batch of links to resources that may have been used for activities and/or discussions during this week's module.
+
 ## What's Next
 
 A clever segue into the next module.

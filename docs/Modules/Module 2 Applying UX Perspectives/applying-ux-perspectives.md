@@ -58,9 +58,15 @@ Right now you are set up for the free Figma account. But as a college student, y
 
 Create a workspace and start having fun with all the options. [This Intro Video](https://youtu.be/jk1T0CdLxwU?t=85) may help!
 
-## Concepts and Resources
+## Module Resources
 
-Here we'll discuss the topic, add links to resources, and any supportive images/graphs/charts that might be helpful.
+A helpful batch of links to resources that may have been used for activities and/or discussions during this week's module.
+
+1. [Dribble](https://dribbble.com/tags/free%20app%20resources%20for%20mobile) is a site used for app design inspiration.
+
+1. [Designer and Developer Collaboration](https://www.toptal.com/designers/ui-ux/designer-developer-collaboration) Discussing the importance of aligning designers and developers.
+
+1. [Strategies for Alignment](https://www.uxpin.com/studio/blog/designers-developers-collaboration/) & [Designer's Guide](https://www.invisionapp.com/lp/designers-guide-dev-collaboration) These links are for discussing strategies for aligning UX/UI designers and developers
 
 ## What's Next
 
