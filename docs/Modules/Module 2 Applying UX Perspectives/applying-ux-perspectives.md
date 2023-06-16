@@ -8,7 +8,8 @@ nav_order: 2
 # Module 2: Applying UX Perspectives and Tools
 {: .no_toc }
 
-An insightful yet charming intro into this module's content.
+In this module we'll be getting started with Figma, a tool used for interface design.
+![Figma](figma.JPG)
 
 ## Table of Contents
 {: .no_toc }

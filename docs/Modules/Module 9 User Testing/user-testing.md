@@ -8,7 +8,7 @@ nav_order: 9
 # Module 9: User Testing
 {: .no_toc }
 
-User testing, also known as usability testing or user experience testing, is a method used to evaluate the usability and user-friendliness of a product or service. It involves observing and gathering feedback from real users as they interact with the product or service to identify potential issues, assess user satisfaction, and make improvements.  
+User testing, also known as usability testing or user experience testing, is a method used to evaluate the usability and user-friendliness of a product or service. It involves observing and gathering feedback from real users as they interact with the product or service to identify potential issues, assess user satisfaction, and make improvements. ![Users](poc.jpg)
 
 ## Table of Contents
 {: .no_toc }

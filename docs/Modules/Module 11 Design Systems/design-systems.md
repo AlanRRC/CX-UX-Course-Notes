@@ -8,7 +8,7 @@ nav_order: 11
 # Module 11: Design Systems
 {: .no_toc }
 
-Design systems are comprehensive sets of guidelines, principles, and reusable components that define the visual and functional aspects of a product or brand. They provide a unified approach to design and help ensure consistency, efficiency, and scalability across different platforms, devices, and teams.
+Design systems are comprehensive sets of guidelines, principles, and reusable components that define the visual and functional aspects of a product or brand. They provide a unified approach to design and help ensure consistency, efficiency, and scalability across different platforms, devices, and teams. ![Design](ds.jpg)
 
 ## Table of Contents
 {: .no_toc }

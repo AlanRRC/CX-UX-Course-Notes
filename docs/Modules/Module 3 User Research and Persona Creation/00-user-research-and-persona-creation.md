@@ -9,7 +9,8 @@ nav_order: 3
 # Module 3: User Research and Persona Creation
 {: .no_toc }
 
-An insightful yet charming intro into this module's content.
+In this module we'll explore the importance of research and personas. 
+![Research](research.jpg)
 
 ## Table of Contents
 {: .no_toc }

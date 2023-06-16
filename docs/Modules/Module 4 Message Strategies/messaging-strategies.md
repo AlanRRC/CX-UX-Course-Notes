@@ -8,7 +8,7 @@ nav_order: 4
 # Module 4: Message Strategies
 {: .no_toc }
 
-CX message strategies, or customer experience message strategies, refer to the methods and approaches used by businesses to communicate with their customers in a way that enhances the overall customer experience. 
+CX message strategies, or customer experience message strategies, refer to the methods and approaches used by businesses to communicate with their customers in a way that enhances the overall customer experience. ![Maps](map.PNG)
 
 ## Table of Contents
 {: .no_toc }

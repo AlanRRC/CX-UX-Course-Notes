@@ -9,7 +9,7 @@ nav_order: 5
 # Module 5: UX Journey/Story Mapping
 {: .no_toc }
 
-Journey mapping, also known as customer journey mapping or user journey mapping, is a technique used in customer experience (CX) and user experience (UX) design to visualize and understand the interactions and experiences that customers or users have with a product, service, or brand.
+Journey mapping, also known as customer journey mapping or user journey mapping, is a technique used in customer experience (CX) and user experience (UX) design to visualize and understand the interactions and experiences that customers or users have with a product, service, or brand. ![Journey](journey.jpg)
 
 ## Table of Contents
 {: .no_toc }

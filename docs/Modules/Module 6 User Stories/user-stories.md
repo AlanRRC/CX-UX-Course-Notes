@@ -8,7 +8,7 @@ nav_order: 6
 # Module 6: User Stories
 {: .no_toc }
 
-User stories are a technique commonly used in software development and project management to capture requirements from the perspective of end users or stakeholders. They are concise descriptions of a specific functionality or feature that a software system should possess, written from the user's point of view.
+User stories are a technique commonly used in software development and project management to capture requirements from the perspective of end users or stakeholders. They are concise descriptions of a specific functionality or feature that a software system should possess, written from the user's point of view.![Stories](stories.jpg)
 
 ## Table of Contents
 {: .no_toc }

@@ -8,7 +8,7 @@ nav_order: 7
 # Module 7: Proof of Concept Design
 {: .no_toc }
 
-A proof of concept (POC) is a demonstration or experiment that is carried out to validate the feasibility and viability of a concept or idea. It is typically a small-scale project or prototype that aims to prove the functionality, potential benefits, and practicality of a concept before investing significant resources into its full implementation.
+A proof of concept (POC) is a demonstration or experiment that is carried out to validate the feasibility and viability of a concept or idea. It is typically a small-scale project or prototype that aims to prove the functionality, potential benefits, and practicality of a concept before investing significant resources into its full implementation. ![POC](poc.jpg)
 
 ## Table of Contents
 {: .no_toc }
