@@ -14,7 +14,7 @@ CX and UX are two related concepts in the field of user experience and customer 
 
 1. **UX (User Experience)**: UX focuses specifically on the experience users have when interacting with a product, service, or system. It involves designing and optimizing the usability, accessibility, and enjoyment of the user interface and interaction. UX professionals consider factors such as ease of use, efficiency, learnability, and emotional response to ensure that users can accomplish their goals effectively and efficiently. UX design incorporates user research, prototyping, testing, and iteration to create intuitive and user-centered experiences.
 
-While CX and UX have distinct scopes, they share a common objective: to create positive experiences for customers or users. Good UX design is often a component of a broader CX strategy, as a well-designed product or service contributes to a positive overall customer experience.
+While CX and UX have distinct scopes, they share a common objective: to create positive experiences for customers or users. Good UX design is often a component of a broader CX strategy, as a well-designed product or service contributes to a positive overall customer experience.![CX](cx.JPG){:.small}
 
 ## Table of Contents
 {: .no_toc }
@@ -54,7 +54,7 @@ Upon completion of this module, you should be able to:
 
 ## CX Value Delivery Model
 
-The CX value delivery model, also known as Customer Experience value delivery model, is a framework that organizations use to create and deliver exceptional customer experiences. It focuses on understanding and meeting customer needs and expectations at every touchpoint throughout the customer journey. The model emphasizes the value that customers derive from their interactions with a company, aiming to build long-term customer loyalty and satisfaction. ![CX](cx.JPG){:.medium}
+The CX value delivery model, also known as Customer Experience value delivery model, is a framework that organizations use to create and deliver exceptional customer experiences. It focuses on understanding and meeting customer needs and expectations at every touchpoint throughout the customer journey. The model emphasizes the value that customers derive from their interactions with a company, aiming to build long-term customer loyalty and satisfaction.
 
 The CX value delivery model typically consists of the following key elements:
 
