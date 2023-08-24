@@ -94,11 +94,11 @@ Simulation and role play provide a safe environment for employees to practice an
 
 A helpful batch of links to resources that may have been used for activities and/or discussions during this week's module.
 
-1. (What is Customer Service Philosophy?)[https://www.zendesk.com/blog/craft-customer-service-philosophy-resonates/] A discussion that introduces some guiding principles of Customer Service.
+1. [What is Customer Service Philosophy?](https://www.zendesk.com/blog/craft-customer-service-philosophy-resonates/) A discussion that introduces some guiding principles of Customer Service.
 
-1. (PageFlows)[https://pageflows.com/] was used to compare the UX elements of Netflix and Linear
+1. [PageFlows](https://pageflows.com/) was used to compare the UX elements of Netflix and Linear
 
-1. (userinyearface)[https://userinyerface.com] was a registration form that may have been challenging to complete.
+1. [userinyearface](https://userinyerface.com) was a registration form that may have been challenging to complete.
 
 ## What's Next
 
