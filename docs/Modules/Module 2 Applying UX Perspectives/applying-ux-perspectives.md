@@ -71,7 +71,7 @@ A helpful batch of links to resources that may have been used for activities and
 
 ## What's Next
 
-A clever segue into the next module.
+In the next module we're going to start doing more planning and research. By researching our potential users and creating personas for them we help mitigate the UX issues that could arise.
 
 ## Glossary
 
