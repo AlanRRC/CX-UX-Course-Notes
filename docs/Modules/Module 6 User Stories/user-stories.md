@@ -40,9 +40,9 @@ User stories are often written on small index cards or sticky notes, which can b
 
 ## Examples of User Stories
 
-[How to Write User Stories](https://youtu.be/7hoGqhb6qAs?si=FZ2xxiPm_BdEcpXU)
-[What is Agile Methodology?](https://youtu.be/8eVXTyIZ1Hs?si=0q622ys6r2E-vgGR)
-[How to Setup a Kanban Board](https://youtu.be/7MDWfAsrrtw?si=2TAeiH9uKEnPh0GH)
+- [How to Write User Stories](https://youtu.be/7hoGqhb6qAs?si=FZ2xxiPm_BdEcpXU)
+- [What is Agile Methodology?](https://youtu.be/8eVXTyIZ1Hs?si=0q622ys6r2E-vgGR)
+- [How to Setup a Kanban Board](https://youtu.be/7MDWfAsrrtw?si=2TAeiH9uKEnPh0GH)
 
 ## What's Next
 
