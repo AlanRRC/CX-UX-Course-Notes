@@ -40,15 +40,13 @@ User stories are often written on small index cards or sticky notes, which can b
 
 ## Examples of User Stories
 
-TBD!
-
-## Module Resources
-
-A helpful batch of links to resources that may have been used for activities and/or discussions during this week's module.
+[How to Write User Stories](https://youtu.be/7hoGqhb6qAs?si=FZ2xxiPm_BdEcpXU)
+[What is Agile Methodology?](https://youtu.be/8eVXTyIZ1Hs?si=0q622ys6r2E-vgGR)
+[How to Setup a Kanban Board](https://youtu.be/7MDWfAsrrtw?si=2TAeiH9uKEnPh0GH)
 
 ## What's Next
 
-A clever segue into the next module.
+Next we'll start looking at different ways to test our ideas using Proof of Concept design.
 
 ## Glossary
 
