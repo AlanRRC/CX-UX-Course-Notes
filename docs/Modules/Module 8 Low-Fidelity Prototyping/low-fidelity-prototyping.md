@@ -36,7 +36,7 @@ Common examples of low-fidelity prototypes include paper sketches, storyboards, 
 
 Whether you're working on websites, desktop or mobile applications, wireframes can clearly visualize what an end product may look like like.
 
-![homepage](homepage.png)
+![homepage](homepage.PNG)
 ![account-setup](account-setup-wireframe.png)
 ![fulllayout](fulllayout.jpg)
 
