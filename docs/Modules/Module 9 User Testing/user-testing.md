@@ -28,6 +28,8 @@ Upon completion of this module, you should be able to:
 
 The main objective of user testing is to understand how users actually use a product or service, as opposed to how developers or designers assume it will be used. By directly involving users in the testing process, organizations can gain valuable insights into user behavior, preferences, and challenges. This feedback helps identify areas of improvement, uncover usability issues, and guide design decisions.
 
+[The Importance of User Testing](https://youtu.be/v8JJrDvQDF4?si=BTAUt5t6_xY3RHPj)
+
 During a user testing session, participants are typically given specific tasks to complete using the product or service. These tasks may include common actions that users are expected to perform. The users' interactions are observed, recorded, and analyzed to understand their experience, challenges faced, and areas where improvements can be made.
 
 User testing can be conducted through various methods, such as:
@@ -44,8 +46,4 @@ User testing is an iterative process that is often conducted throughout the prod
 
 ## What's Next
 
-A clever segue into the next module.
-
-## Glossary
-
-Here we'll create a list of the module's key terms
+Now we can start looking at fine tuning our User's experiences. We'll next take a look at digital accessibility; making our digital products available to everyone.
