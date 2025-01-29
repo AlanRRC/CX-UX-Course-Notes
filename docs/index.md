@@ -7,7 +7,7 @@ permalink: /
 
 # CX/UX
 
-## Course Notes
+## Course Notes 
 
 All of your course notes can be found on this site. A list of all available modules is shown on the left (or via the menu for smaller screens).
 
