@@ -1,11 +1,11 @@
 ---
-title: Module 10:Digital Accessibility
-nav_order: 10
+title: Module 7:Digital Accessibility
+nav_order: 7
 ---
 
 <!-- prettier-ignore-start -->
 
-# Module 10: Digital Accessibility
+# Module 7: Digital Accessibility
 {: .no_toc }
 
 Digital accessibility refers to the practice of designing and developing digital content and technologies in a way that ensures equal access and usability for individuals with disabilities. It involves creating websites, applications, documents, and other digital products that can be perceived, operated, and understood by a diverse range of users, including those with visual, auditory, motor, or cognitive impairments. ![Accessibility](access.JPG)

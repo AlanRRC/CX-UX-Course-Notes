@@ -58,10 +58,8 @@ A helpful batch of links to resources that may have been used for activities and
 
 1. [Tailored Presentations](https://hbr.org/2015/04/the-best-presentations-are-tailored-to-the-audience)
 
+1. [10 Best Message Frameworks](https://jdmeier.com/copywriting-frameworks/)
+
 ## What's Next
 
 Next time we'll be leveraging our tech savvy with a popular design tool: Figma. We'll drill down into the differences between UI, UX, and CX, and begin to apply UX perspectives.
-
-## Glossary
-
-Here we'll create a list of the module's key terms

@@ -1,11 +1,11 @@
 ---
-title: Module 7:Proof of Concept Design
-nav_order: 7
+title: Module 9:Feasibility Studies
+nav_order: 9
 ---
 
 <!-- prettier-ignore-start -->
 
-# Module 7: Proof of Concept Design
+# Module 11: Feasibility Studies
 {: .no_toc }
 
 A proof of concept (POC) is a demonstration or experiment that is carried out to validate the feasibility and viability of a concept or idea. It is typically a small-scale project or prototype that aims to prove the functionality, potential benefits, and practicality of a concept before investing significant resources into its full implementation. ![POC](poc.jpg)
@@ -57,11 +57,3 @@ A helpful batch of links to resources that may have been used for activities and
 1. [Prototype to Product](https://www.interaction-design.org/literature/article/from-prototype-to-product-ensuring-your-solution-is-feasible-and-viable)
 
 1. [Types of Feasibility Studies](https://www.geeksforgeeks.org/types-of-feasibility-study-in-software-project-development/)
-
-## What's Next
-
-A clever segue into the next module.
-
-## Glossary
-
-Here we'll create a list of the module's key terms

@@ -1,11 +1,11 @@
 ---
-title: Module 8:Low-Fidelity Prototyping
-nav_order: 8
+title: Module 10:Low-Fidelity Prototyping
+nav_order: 10
 ---
 
 <!-- prettier-ignore-start -->
 
-# Module 8: Low-Fidelity Prototyping
+# Module 10: Low-Fidelity Prototyping
 {: .no_toc }
 
 Low-fidelity prototyping is a technique used in the field of design and product development to quickly and inexpensively create rough representations of ideas or concepts. It involves creating simple and basic versions of a product or system, typically using materials such as paper, cardboard, or digital tools like wireframing software. ![Protoyping](proto.PNG)
