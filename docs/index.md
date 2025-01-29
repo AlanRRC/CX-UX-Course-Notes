@@ -9,7 +9,7 @@ permalink: /
 
 ## Course Notes 
 
-All of your course notes can be found on this site. A list of all available modules is shown on the left (or via the menu for smaller screens).
+All of your course notes can be found on this site. Bookmark for quick access. A list of all available modules is shown on the left (or via the menu for smaller screens).
 
 You can use the search bar at the top to search the notes for specific topics.
 
