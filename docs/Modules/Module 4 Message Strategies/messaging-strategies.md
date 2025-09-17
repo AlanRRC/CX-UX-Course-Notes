@@ -54,7 +54,6 @@ These strategies are not exhaustive, and businesses may combine multiple approac
 
 A helpful batch of links to resources that may have been used for activities and/or discussions during this week's module.
 
-1. [Crafting Effective Messages for Different Audiences](https://www.managements.coach/business-communication-strategies-tailoring-messages-to-the-audience)
 
 1. [Tailored Presentations](https://hbr.org/2015/04/the-best-presentations-are-tailored-to-the-audience)
 
